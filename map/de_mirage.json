@@ -289,5 +289,64 @@
       "weapon": "weapon_hegrenade",
       "position": [454.85791015625, -1551.0428466797, -239.39822387695],
       "viewangles": [-24.933948516846, 178.56188964844]
+    },
+	{
+      "name": ["Connector", "boost-oneway"],
+      "weapon": "weapon_molotov",
+      "position": [-690.651794, -797.930359, -263.96875],
+      "viewangles": [0.5, -92.15],
+      "grenade": {
+        "run": 22,
+        "recovery_jump": true,
+        "recovery_yaw": -12,
+        "jump": true
+      }
+    },
+	{
+      "name": ["Stairs", "short"],
+      "weapon": "weapon_molotov",
+      "position": [-508.43008422851563, -1633.9619140625, -39.96875],
+      "viewangles": [6.7376694679260254, 101.17758178710938],
+      "grenade": {
+        "run": 13,
+        "recovery_jump": true,
+        "jump": true
+      }
+    },
+	{
+      "name": ["Stairs", "ramp 1w"],
+      "weapon": "weapon_molotov",
+      "position": [-401.9287109375, -1587.27294921875, -39.96875],
+      "viewangles": [-17.932487487792969, 2.9161977767944336]
+    },
+	{
+      "name": ["PI", "Aplant"],
+      "weapon": "weapon_molotov",
+      "position": [83.778907775879, -2373.3547363281, -39.96875],
+      "viewangles": [12.059456825256, 111.54964447021]
+	},
+	{
+      "name": ["PI", "Aplant"],
+      "weapon": "weapon_hegrenade",
+      "position": [83.778907775879, -2373.3547363281, -39.96875],
+      "viewangles": [12.059456825256, 111.54964447021]
+	},
+	{
+      "name": ["Tunnel", "short"],
+      "weapon": "weapon_hegrenade",
+      "position": [-1033.08837890625, -162.31962585449219, -367.96875],
+      "viewangles": [-10.437341690063477, -76.621986389160156],
+      "grenade": {
+        "run": 22
+      }
+    },
+	{
+      "name": ["Tunnel", "short"],
+      "weapon": "weapon_molotov",
+      "position": [-1037.25390625, -155.898681640625, -367.96875],
+      "viewangles": [-10.188270568847656, -76.552093505859375],
+      "grenade": {
+        "run": 18
+      }
     }
 ]
