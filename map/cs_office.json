@@ -117,6 +117,7 @@
       "viewangles": [-3.6633858680725, 38.220165252686],
       "grenade": {
         "run": 2
+		"recovery_yaw": -90
       }
     },
     {
@@ -126,6 +127,7 @@
       "viewangles": [-7, 38.220165252686],
       "grenade": {
         "run": 1
+		"recovery_yaw": -90
       }
     },
     {
@@ -245,9 +247,11 @@
       "position": [512.29077148438, 18.009111404419, -111.96875],
       "viewangles": [3.5, 68.750419616699],
       "grenade": {
-        "run": 2
-      }
-    },
+        "run": 2,
+        "recovery_jump": true,
+        "recovery_yaw": 90
+  }
+}
     {
       "name": ["Box", "Doublepussy"],
       "weapon": "weapon_hegrenade",
@@ -255,6 +259,8 @@
       "viewangles": [3.5, 68.750419616699],
       "grenade": {
         "run": 2
+		"recovery_jump": true,
+        "recovery_yaw": 90
       }
     },
     {
