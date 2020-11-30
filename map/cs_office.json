@@ -250,8 +250,8 @@
         "run": 2,
         "recovery_jump": true,
         "recovery_yaw": 90
-  }
-}
+      }
+    },
     {
       "name": ["Box", "Doublepussy"],
       "weapon": "weapon_hegrenade",
