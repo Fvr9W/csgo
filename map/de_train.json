@@ -1,0 +1,54 @@
+[
+    {
+      "name": ["Tunnel 1", "Connector"],
+      "weapon": "weapon_molotov",
+      "position": [1109.7092285156, 591.98956298828, -215.96875],
+      "viewangles": [-9.4747428894043, -124.0297164917]
+    },
+    {
+      "name": ["Bombsite A", "OLOF"],
+      "weapon": "weapon_molotov",
+      "position": [864.32159423828, 129.52345275879, -215.93196105957],
+      "viewangles": [-16.77615737915, 148.8740234375],
+      "grenade": {
+        "run": 2
+      }
+    },
+    {
+      "name": ["B Ramp", "upsite"],
+      "weapon": "weapon_molotov",
+      "position": [-944.69836425781, -874.44860839844, -151.96875],
+      "viewangles": [-28.040344238281, 115.96300506592],
+      "grenade": {
+        "recovery_yaw": -45
+      }
+    },
+    {
+      "name": ["Ladder", "outside"],
+      "weapon": "weapon_molotov",
+      "position": [-600.86517333984, -439.43923950195, 16.03125],
+      "viewangles": [-57.784049987793, 47.199481964111]
+    },
+    {
+      "name": ["lvy", "server"],
+      "weapon": "weapon_molotov",
+      "position": [1248.0324707031, 790.05590820313, -215.17791748047],
+      "viewangles": [0.47185957431793, -42.817085266113]
+    },
+    {
+      "name": ["Bombsite A", "Blue"],
+      "weapon": "weapon_molotov",
+      "position": [757.46697998047, -137.62226867676, -217.84147644043],
+      "viewangles": [-25.138734817505, 145.25042724609],
+      "duck": true
+    },
+    {
+      "name": ["Connector", "Lane 1"],
+      "weapon": "weapon_molotov",
+      "position": [510.58377075195, -546.17034912109, -223.96875],
+      "viewangles": [-7.1866998672485, 63.84321975708],
+      "grenade": {
+        "run": 18
+      }
+    }
+]

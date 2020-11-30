@@ -1,0 +1,94 @@
+[
+    {
+      "name": ["Construction", "Water"],
+      "weapon": "weapon_molotov",
+      "position": [-1044.3845214844, -559.21527099609, 96.03125],
+      "viewangles": [-11.105823516846, 85.769989013672],
+      "grenade": {
+        "run": 13
+      }
+    },
+    {
+      "name": ["Water", "Pillar"],
+      "weapon": "weapon_molotov",
+      "position": [-1490.8474121094, -888.58795166016, 46.9833984375],
+      "viewangles": [-24.508512496948, 65.941383361816]
+    },
+    {
+      "name": ["Water", "Toxic"],
+      "weapon": "weapon_molotov",
+      "position": [-1348.7697753906, -1021.1599121094, 3.1650238037109],
+      "viewangles": [-26.313119888306, 73.033744812012],
+      "grenade": {
+        "run": 8
+      }
+    },
+    {
+      "name": ["Water", "Pillar"],
+      "weapon": "weapon_molotov",
+      "position": [-1338.3190917969, -936.306640625, 6.5940704345703],
+      "viewangles": [-27.907863616943, 73.201522827148]
+    },
+    {
+      "name": ["Sandbag", "Sniper's nest"],
+      "weapon": "weapon_molotov",
+      "position": [-856.04083251953, -616.20556640625, 96.03125],
+      "viewangles": [-25.389749526978, 129.14289855957],
+      "grenade": {
+        "run": 2
+      }
+    },
+    {
+      "name": ["LowerPark", "FakeDuck"],
+      "weapon": "weapon_molotov",
+      "position": [-2433.4555664063, 146.12658691406, 432.9342956543],
+      "viewangles": [-21.360918045044, 66.780326843262],
+      "duck": true
+    },
+    {
+      "name": ["UpperPark", "FakeDuck"],
+      "weapon": "weapon_molotov",
+      "position": [-3302.6337890625, 174.97438049316, 513.68017578125],
+      "viewangles": [-13.051581382751, 33.081420898438],
+      "grenade": {
+        "run": 7
+      }
+    },
+    {
+      "name": ["UpperPark", "FakeDuck"],
+      "weapon": "weapon_molotov",
+      "position": [-3343.5200195313, -325.5989074707, 527.08599853516],
+      "viewangles": [-21.907329559326, 44.874038696289],
+      "grenade": {
+        "run": 15
+      }
+    },
+    {
+      "name": ["Alley", "Sandbag"],
+      "weapon": "weapon_molotov",
+      "position": [-759.57000732422, -1903.1850585938, 198.71899414063],
+      "viewangles": [-16.492931365967, 100.94119262695],
+      "grenade": {
+        "run": 1
+      }
+    },
+    {
+      "name": ["Walkway", "upper FD"],
+      "weapon": "weapon_molotov",
+      "position": [-1743.96875, -328.74090576172, 166.61285400391],
+      "viewangles": [-53.27103805542, 141.2239074707]
+    },
+    {
+      "name": ["Construction", "Bombsite B"],
+      "weapon": "weapon_molotov",
+      "position": [-1085.1170654297, -636.31549072266, 96.03125],
+      "viewangles": [-32.968036651611, 98.841583251953]
+    },
+    {
+      "name": ["Snipers Nest", "Bombsite B"],
+      "weapon": "weapon_molotov",
+      "position": [-2072.96875, 730.96875, 256.03125],
+      "viewangles": [-2.2880363464355, -38.423603057861],
+      "duck": true
+    }
+]
