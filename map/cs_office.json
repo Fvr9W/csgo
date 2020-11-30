@@ -258,8 +258,8 @@
       "position": [512.29559326172, 18.021331787109, -111.96875],
       "viewangles": [3.5, 68.750419616699],
       "grenade": {
-        "run": 2
-		"recovery_jump": true,
+        "run": 2,
+        "recovery_jump": true,
         "recovery_yaw": 90
       }
     },
