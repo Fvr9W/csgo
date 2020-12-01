@@ -237,7 +237,12 @@
   "name": ["Caesar", "Planting"],
   "weapon": "weapon_hegrenade",
   "position": [-1925.9859619141, 259.96871948242, 160.03125],
-  "viewangles": [13, -13.971981048584]
+  "viewangles": [13, -13.971981048584],
+  "grenade": {
+    "recovery_jump": true,
+    "recovery_yaw": -20,
+    "jump": true
+  }
   },
   {
   "name": ["Caesar", "Fly_Me_to_the_moon"],
@@ -273,7 +278,11 @@
   "name": ["Caesar", "Stupid_FD"],
   "weapon": "weapon_molotov",
   "position": [-2079.5803222656, 558.75378417969, 515.52044677734],
-  "viewangles": [-58.783111572266, -139.71771240234]
+  "viewangles": [-58.783111572266, -139.71771240234],
+  "grenade": {
+    "recovery_yaw": 36,
+    "jump": true
+  }
   },
   {
   "name": ["Caesar", "B push"],
@@ -281,7 +290,7 @@
   "position": [-2080.5522460938, 593.81665039063, 513.81024169922],
   "viewangles": [20.857484817505, -43.957717895508],
   "grenade": {
-    "run": 80,
+    "run": 20,
     "jump": true
   }
   },
@@ -309,7 +318,8 @@
   "position": [-2284.3962402344, -238.89672851563, 385.13430786133],
   "viewangles": [-0.9, -78.7],
   "grenade": {
-    "run": 140,
+    "run": 24,
+    "recovery_yaw": 0,
     "jump": true
   }
   },
@@ -343,7 +353,8 @@
   "position": [-2386.2917480469, -1103.7626953125, 432.09381103516],
   "viewangles": [-1.6, 80.7],
   "grenade": {
-    "run": 120,
+    "run": 30,
+    "recovery_yaw": -12,
     "jump": true
   }
   },
@@ -362,8 +373,9 @@
   {
   "name": ["Caesar", "fakeduck"],
   "weapon": "weapon_molotov",
-  "position": [-2442.0954589844, 96.080795288086, 426.61703491211],
-  "viewangles": [-14.235001564026, 66.314933776855]
+  "position": [-2442.0959472656, 96.081069946289, 426.61569213867],
+  "viewangles": [-16.633462905884, 66.375694274902],
+  "duck": true
   },
   {
   "name": ["Caesar", "Under_Mein_Smoke_2"],
@@ -417,13 +429,22 @@
   "name": ["Caesar", "short oneway fakelag-off 54hp"],
   "weapon": "weapon_hegrenade",
   "position": [-265.42965698242, -1014.8239746094, 11.088241577148],
-  "viewangles": [-3.4819622993469, 153.09700012207]
+  "viewangles": [-3.4819622993469, 153.09700012207],
+  "grenade": {
+    "run": 22,
+    "jump": true
+  }
   },
   {
   "name": ["Caesar", "Rock"],
   "weapon": "weapon_molotov",
   "position": [-2949.8295898438, -1969.0792236328, 472.03125],
-  "viewangles": [-46.576210021973, 150.26777648926]
+  "viewangles": [-46.576210021973, 150.26777648926],
+  "grenade": {
+    "run": 1,
+    "recovery_yaw": 90,
+    "jump": true
+  }
   },
   {
   "name": ["Caesar", "Rock"],
@@ -431,7 +452,7 @@
   "position": [-3102.9763183594, -2246.6381835938, 471.03381347656],
   "viewangles": [-58.629951477051, 126.81004333496],
   "grenade": {
-    "run": 160,
+    "run": 11,
     "jump": true
   }
   },
@@ -441,7 +462,7 @@
   "position": [-3102.9763183594, -2246.6381835938, 471.03381347656],
   "viewangles": [-58.629951477051, 126.81004333496],
   "grenade": {
-    "run": 130,
+    "run": 10,
     "jump": true
   }
   },
@@ -451,7 +472,9 @@
   "position": [-3192.3874511719, 229.84590148926, 498.84967041016],
   "viewangles": [2.711792755127, -98.615646362305],
   "grenade": {
-    "run": 1,
+    "run": 22,
+    "recovery_jump": true,
+    "recovery_yaw": 0,
     "jump": true
   }
   },
@@ -465,7 +488,10 @@
   "name": ["Caesar", "Box_FD"],
   "weapon": "weapon_molotov",
   "position": [-3264.0192871094, 162.6830291748, 512.20275878906],
-  "viewangles": [-15.3, 32.456272125244]
+  "viewangles": [-15.3, 32.456272125244],
+  "grenade": {
+    "run": 1
+  }
   },
   {
   "name": ["Caesar", "Trash FD"],
@@ -491,7 +517,7 @@
   "position": [-3750.1284179688, -250.51168823242, 515.02069091797],
   "viewangles": [3.365006685257, 35.889850616455],
   "grenade": {
-    "run": 100,
+    "run": 30,
     "jump": true
   }
   },
@@ -510,7 +536,8 @@
   "position": [-472.07412719727, 363.86776733398, 16.651062011719],
   "viewangles": [-24.749969482422, -150.33010864258],
   "grenade": {
-    "run": 22
+    "run": 22,
+    "recovery_yaw": -90
   }
   },
   {
@@ -526,7 +553,10 @@
   "name": ["Caesar", "water-by-player"],
   "weapon": "weapon_molotov",
   "position": [-611.77301025391, -1120.4915771484, 58.720512390137],
-  "viewangles": [2.6270790100098, 109.64917907715]
+  "viewangles": [2.6270790100098, 109.64917907715],
+  "grenade": {
+    "jump": true
+  }
   },
   {
   "name": ["Caesar", "B_SupPeek_Smoke"],
