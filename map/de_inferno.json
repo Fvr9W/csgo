@@ -1,344 +1,423 @@
 [
-    {
-      "name": ["CAR", "Spools-W"],
-      "weapon": "weapon_molotov",
-      "position": [474.21899414063, 2034.3000488281, 203.09399414063],
-      "viewangles": [-21.780624389648, 91.924270629883]
-    },
-    {
-      "name": ["SandBag", "Spools-S"],
-      "weapon": "weapon_molotov",
-      "position": [708.35589599609, 1873.0152587891, 211.97320556641],
-      "viewangles": [-17.259115219116, 98.104484558105],
-      "grenade": {
-        "run": 1
-      }
-    },
-    {
-      "name": ["CAR", "Boost"],
-      "description": "Created by Caesar",
-      "weapon": "weapon_molotov",
-      "position": [461.69454956055, 1916.4765625, 129.35647583008],
-      "position_visibility": [0, 0, 0],
-      "viewangles": [-49.237567901611, 60.933757781982],
-      "duck": false,
-      "tickrate": 64,
-      "approach_accurate": true,
-      "grenade": {
-		"strength": 1,
-        "fov": 180,
-		"jump": true,
-		"run": 22,
-		"run_yaw": 0,
-		"run_speed": false,
-		"recovery_yaw": -180
-      }
-    },
-    {
-      "name": ["CAR", "First-Box"],
-      "description": "Created by Caesar",
-      "weapon": "weapon_molotov",
-      "position": [512.78436279297, 1885.0102539063, 131.11688232422],
-      "position_visibility": [0, 0, 0],
-      "viewangles": [-55.941349029541, 94.478416442871],
-      "duck": false,
-      "tickrate": 64,
-      "approach_accurate": true,
-      "grenade": {
-		"strength": 1,
-        "fov": 180,
-		"jump": true,
-		"run": 12,
-		"run_yaw": 0,
-		"run_speed": false,
-		"recovery_yaw": -180
-      }
-    },
-    {
-      "name": ["Spools-W", "Boost"],
-      "weapon": "weapon_molotov",
-      "position": [513.51916503906, 3476.9780273438, 160.03125],
-      "viewangles": [-11.079023361206, -87.164009094238]
-    },
-    {
-      "name": ["MID", "Arch"],
-      "description": "Created by Caesar",
-      "weapon": "weapon_molotov",
-      "position": [1156.5910644531, 438.44635009766, 111.52025604248],
-      "position_visibility": [0, 0, 0],
-      "viewangles": [-42.931774139404, 59.954433441162],
-      "duck": false,
-      "tickrate": 64,
-      "approach_accurate": true,
-      "grenade": {
-		"strength": 1,
-        "fov": 180,
-		"jump": true,
-		"run": 4,
-		"run_yaw": 0,
-		"run_speed": false,
-		"recovery_yaw": -180
-      }
-    },
-    {
-      "name": ["Arch", "Mid-Left"],
-      "description": "Created by Caesar",
-      "weapon": "weapon_molotov",
-      "position": [1867.978515625, 1439.3071289063, 160.03125],
-      "position_visibility": [0, 0, 0],
-      "viewangles": [-45.407573699951, -127.91847229004],
-      "duck": false,
-      "tickrate": 64,
-      "approach_accurate": true,
-      "grenade": {
-		"strength": 1,
-        "fov": 180,
-		"jump": true,
-		"run": 9,
-		"run_yaw": 0,
-		"run_speed": false,
-		"recovery_yaw": -180
-      }
-    },
-    {
-      "name": ["A Main", "Arch"],
-      "weapon": "weapon_molotov",
-      "position": [2369.4990234375, 892.77386474609, 153.96365356445],
-      "viewangles": [-12.002413749695, 143.71681213379],
-      "grenade": {
-        "run": 16,
-        "recovery_jump": true,
-        "recovery_yaw": 90
-      }
-    },
-    {
-      "name": ["A Main", "Arch"],
-      "weapon": "weapon_hegrenade",
-      "position": [2369.4990234375, 892.77386474609, 153.96365356445],
-      "viewangles": [-12.002413749695, 143.71681213379],
-      "grenade": {
-        "run": 16,
-        "recovery_jump": true,
-        "recovery_yaw": 90
-      }
-    },
-    {
-      "name": ["Ruins", "B Main"],
-      "description": "Created by Caesar",
-      "weapon": "weapon_molotov",
-      "position": [1195.1691894531, 2920.3093261719, 128.03125],
-      "position_visibility": [0, 0, 0],
-      "viewangles": [-47.296424865723, -129.48039245605],
-      "duck": false,
-      "tickrate": 64,
-      "approach_accurate": true,
-      "grenade": {
-		"strength": 1,
-        "fov": 180,
-		"jump": true,
-		"run": 9,
-		"run_yaw": 0,
-		"run_speed": false,
-		"recovery_yaw": -180
-      }
-    },
-    {
-      "name": ["CT Start", "Boost"],
-      "description": "Created by Caesar",
-      "weapon": "weapon_molotov",
-      "position": [2026.9737548828, 2675.4001464844, 128.03125],
-      "position_visibility": [0, 0, 0],
-      "viewangles": [-36.720973968506, 179.32052612305],
-      "duck": false,
-      "tickrate": 64,
-      "approach_accurate": true,
-      "grenade": {
-		"strength": 1,
-        "fov": 180,
-		"jump": true,
-		"run": 21,
-		"run_yaw": 0,
-		"run_speed": false,
-		"recovery_yaw": -180
-      }
-    },
-    {
-      "name": ["Ruins", "B Stairs"],
-      "description": "Created by Caesar",
-      "weapon": "weapon_molotov",
-      "position": [1019.1114501953, 3360.3359375, 128.03125],
-      "position_visibility": [0, 0, 0],
-      "viewangles": [-55.815719604492, -116.05100250244],
-      "duck": false,
-      "tickrate": 64,
-      "approach_accurate": true,
-      "grenade": {
-		"strength": 1,
-        "fov": 180,
-		"jump": true,
-		"run": 15,
-		"run_yaw": 0,
-		"run_speed": false,
-		"recovery_yaw": -180
-      }
-    },
-    {
-      "name": ["CAR", "FountainsFakeDcuk"],
-      "description": "Created by Caesar",
-      "weapon": "weapon_molotov",
-      "position": [509.4755859375, 1961.0186767578, 129.18034362793],
-      "position_visibility": [0, 0, 0],
-      "viewangles": [-38.700504302979, 104.05363464355],
-      "duck": false,
-      "tickrate": 64,
-      "approach_accurate": true,
-      "grenade": {
-		"strength": 1,
-        "fov": 180,
-		"jump": true,
-		"run": 4,
-		"run_yaw": 0,
-		"run_speed": false,
-		"recovery_yaw": -180
-      }
-    },
-    {
-      "name": ["Fountain", "BigPeekCAR"],
-      "weapon": "weapon_hegrenade",
-      "position": [504.69918823242, 2660.5134277344, 160.03125],
-      "viewangles": [-12.086824417114, -41.591644287109],
-      "grenade": {
-        "run": 15,
-        "recovery_jump": true,
-        "recovery_yaw": 20
-      }
-    },
-    {
-      "name": ["Fountain", "CAR Left"],
-      "description": "Created by Caesar",
-      "weapon": "weapon_molotov",
-      "position": [431.42135620117, 2674.3276367188, 189.03125],
-      "position_visibility": [0, 0, 0],
-      "viewangles": [-57.284828186035, -77.515579223633],
-      "duck": false,
-      "tickrate": 64,
-      "approach_accurate": true,
-      "grenade": {
-		"strength": 1,
-        "fov": 180,
-		"jump": true,
-		"run": 15,
-		"run_yaw": 0,
-		"run_speed": false,
-		"recovery_yaw": -180
-      }
-    },
-    {
-      "name": ["Top of Mid", "Middle FakeDuck"],
-      "weapon": "weapon_molotov",
-      "position": [1517.9202880859, 684.14453125, 137.61552429199],
-      "viewangles": [-20.689535140991, -175.83685302734]
-    },
-    {
-      "name": ["Bombsite A", "Quad"],
-      "weapon": "weapon_hegrenade",
-      "position": [2046.1804199219, 502.55487060547, 160.03125],
-      "viewangles": [-12.044295310974, -107.41973876953],
-      "duck": true
-    },
-    {
-      "name": ["Quad", "Default"],
-      "weapon": "weapon_molotov",
-      "position": [1453.4588623047, -107.9688949585, 130.03125],
-      "viewangles": [-6.462628364563, 28.32297706604]
-    },
-    {
-      "name": ["Top of Mid", "Arch"],
-      "description": "Created by Caesar",
-      "weapon": "weapon_molotov",
-      "position": [1330.458984375, 768.34918212891, 144.02893066406],
-      "position_visibility": [0, 0, 0],
-      "viewangles": [-44.987884521484, 50.765407562256],
-      "duck": false,
-      "tickrate": 64,
-      "approach_accurate": true,
-      "grenade": {
-		"strength": 1,
-        "fov": 180,
-		"jump": true,
-		"run_yaw": 0,
-		"run_speed": false,
-		"recovery_yaw": -180
-      }
-    },
-    {
-      "name": ["CT Start", "Bombsite A"],
-      "weapon": "weapon_smokegrenade",
-      "position": [2308.0388183594, 2160.4868164063, 128.03125],
-      "viewangles": [-38.67361831665, -104.24108886719]
-    },
-    {
-      "name": ["Garden", "Coffin"],
-      "weapon": "weapon_hegrenade",
-      "position": [718.02819824219, 3581.5751953125, 148.92500305176],
-      "viewangles": [-13.093547821045, -131.31597900391],
-      "grenade": {
-        "run": 7
-      }
-    },
-    {
-      "name": ["Top of Mid", "Haystack"],
-      "weapon": "weapon_hegrenade",
-      "position": [1517.9781494141, 792.03112792969, 139.95462036133],
-      "viewangles": [-13.932921409607, -146.28295898438]
-    },
-    {
-      "name": ["Arch", "Middle"],
-      "description": "Created by Caesar",
-      "weapon": "weapon_molotov",
-      "position": [1680.4611816406, 1220.9367675781, 161.4602355957],
-      "position_visibility": [0, 0, 0],
-      "viewangles": [-47.170272827148, -120.99672698975],
-      "duck": false,
-      "tickrate": 64,
-      "approach_accurate": true,
-      "grenade": {
-		"strength": 1,
-        "fov": 180,
-		"jump": true,
-		"run": 15,
-		"run_yaw": 0,
-		"run_speed": false,
-		"recovery_yaw": -180
-      }
-    },
-    {
-      "name": ["2rd Main", "ApartmentsStairs"],
-      "weapon": "weapon_molotov",
-      "position": [27.009326934814, -84.968795776367, 39.446105957031],
-      "viewangles": [-23.583770751953, 5.751923084259],
-      "grenade": {
-        "run": 4
-      }
-    },
-    {
-      "name": ["Fountain", "CAR"],
-      "description": "Created by Caesar",
-      "weapon": "weapon_hegrenade",
-      "position": [375.75646972656, 2619.3662109375, 189.03125],
-      "position_visibility": [0, 0, 0],
-      "viewangles": [-47.048030853271, -88.417472839355],
-      "duck": false,
-      "tickrate": 64,
-      "approach_accurate": true,
-      "grenade": {
-		"strength": 1,
-        "fov": 180,
-		"jump": true,
-		"run": 10,
-		"run_yaw": 0,
-		"run_speed": false,
-		"recovery_yaw": -180
-      }
+  {
+    "name": ["CAR", "Spools-W"],
+    "weapon": "weapon_molotov",
+    "position": [474.21899414063, 2034.3000488281, 203.09399414063],
+    "viewangles": [-21.780624389648, 91.924270629883]
+  },
+  {
+    "name": ["SandBag", "Spools-S"],
+    "weapon": "weapon_molotov",
+    "position": [708.35589599609, 1873.0152587891, 211.97320556641],
+    "viewangles": [-17.259115219116, 98.104484558105],
+    "grenade": {
+      "run": 1
     }
+  },
+  {
+    "name": ["CAR", "Boost"],
+    "weapon": "weapon_molotov",
+    "position": [461.69454956055, 1916.4765625, 129.35647583008],
+    "viewangles": [-49.237567901611, 60.933757781982],
+    "position_visibility": [0, 0, 0],
+    "grenade": {
+      "fov": 180,
+      "run": 22,
+      "recovery_yaw": -180,
+      "jump": true
+    },
+    "tickrate": 64,
+    "approach_accurate": true
+  },
+  {
+    "name": ["CAR", "First-Box"],
+    "weapon": "weapon_molotov",
+    "position": [512.78436279297, 1885.0102539063, 131.11688232422],
+    "viewangles": [-55.941349029541, 94.478416442871],
+    "position_visibility": [0, 0, 0],
+    "grenade": {
+      "fov": 180,
+      "run": 12,
+      "recovery_yaw": -180,
+      "jump": true
+    },
+    "tickrate": 64,
+    "approach_accurate": true
+  },
+  {
+    "name": ["Spools-W", "Boost"],
+    "weapon": "weapon_molotov",
+    "position": [513.51916503906, 3476.9780273438, 160.03125],
+    "viewangles": [-11.079023361206, -87.164009094238]
+  },
+  {
+    "name": ["MID", "Arch"],
+    "weapon": "weapon_molotov",
+    "position": [1156.5910644531, 438.44635009766, 111.52025604248],
+    "viewangles": [-42.931774139404, 59.954433441162],
+    "position_visibility": [0, 0, 0],
+    "grenade": {
+      "fov": 180,
+      "run": 4,
+      "recovery_yaw": -180,
+      "jump": true
+    },
+    "tickrate": 64,
+    "approach_accurate": true
+  },
+  {
+    "name": ["Arch", "Mid-Left"],
+    "weapon": "weapon_molotov",
+    "position": [1867.978515625, 1439.3071289063, 160.03125],
+    "viewangles": [-45.407573699951, -127.91847229004],
+    "position_visibility": [0, 0, 0],
+    "grenade": {
+      "fov": 180,
+      "run": 9,
+      "recovery_yaw": -180,
+      "jump": true
+    },
+    "tickrate": 64,
+    "approach_accurate": true
+  },
+  {
+    "name": ["A Main", "Arch"],
+    "weapon": "weapon_molotov",
+    "position": [2369.4990234375, 892.77386474609, 153.96365356445],
+    "viewangles": [-12.002413749695, 143.71681213379],
+    "grenade": {
+      "run": 16,
+      "recovery_jump": true,
+      "recovery_yaw": 90
+    }
+  },
+  {
+    "name": ["A Main", "Arch"],
+    "weapon": "weapon_hegrenade",
+    "position": [2369.4990234375, 892.77386474609, 153.96365356445],
+    "viewangles": [-12.002413749695, 143.71681213379],
+    "grenade": {
+      "run": 16,
+      "recovery_jump": true,
+      "recovery_yaw": 90
+    }
+  },
+  {
+    "name": ["Ruins", "B Main"],
+    "weapon": "weapon_molotov",
+    "position": [1195.1691894531, 2920.3093261719, 128.03125],
+    "viewangles": [-47.296424865723, -129.48039245605],
+    "position_visibility": [0, 0, 0],
+    "grenade": {
+      "fov": 180,
+      "run": 9,
+      "recovery_yaw": -180,
+      "jump": true
+    },
+    "tickrate": 64,
+    "approach_accurate": true
+  },
+  {
+    "name": ["CT Start", "Boost"],
+    "weapon": "weapon_molotov",
+    "position": [2026.9737548828, 2675.4001464844, 128.03125],
+    "viewangles": [-36.720973968506, 179.32052612305],
+    "position_visibility": [0, 0, 0],
+    "grenade": {
+      "fov": 180,
+      "run": 21,
+      "recovery_yaw": -180,
+      "jump": true
+    },
+    "tickrate": 64,
+    "approach_accurate": true
+  },
+  {
+    "name": ["Ruins", "B Stairs"],
+    "weapon": "weapon_molotov",
+    "position": [1019.1114501953, 3360.3359375, 128.03125],
+    "viewangles": [-55.815719604492, -116.05100250244],
+    "position_visibility": [0, 0, 0],
+    "grenade": {
+      "fov": 180,
+      "run": 15,
+      "recovery_yaw": -180,
+      "jump": true
+    },
+    "tickrate": 64,
+    "approach_accurate": true
+  },
+  {
+    "name": ["CAR", "FountainsFakeDcuk"],
+    "weapon": "weapon_molotov",
+    "position": [509.4755859375, 1961.0186767578, 129.18034362793],
+    "viewangles": [-38.700504302979, 104.05363464355],
+    "position_visibility": [0, 0, 0],
+    "grenade": {
+      "fov": 180,
+      "run": 4,
+      "recovery_yaw": -180,
+      "jump": true
+    },
+    "tickrate": 64,
+    "approach_accurate": true
+  },
+  {
+    "name": ["Fountain", "BigPeekCAR"],
+    "weapon": "weapon_hegrenade",
+    "position": [504.69918823242, 2660.5134277344, 160.03125],
+    "viewangles": [-12.086824417114, -41.591644287109],
+    "grenade": {
+      "run": 15,
+      "recovery_jump": true,
+      "recovery_yaw": 20
+    }
+  },
+  {
+    "name": ["Fountain", "CAR Left"],
+    "weapon": "weapon_molotov",
+    "position": [431.42135620117, 2674.3276367188, 189.03125],
+    "viewangles": [-57.284828186035, -77.515579223633],
+    "position_visibility": [0, 0, 0],
+    "grenade": {
+      "fov": 180,
+      "run": 15,
+      "recovery_yaw": -180,
+      "jump": true
+    },
+    "tickrate": 64,
+    "approach_accurate": true
+  },
+  {
+    "name": ["Top of Mid", "Middle FakeDuck"],
+    "weapon": "weapon_molotov",
+    "position": [1517.9202880859, 684.14453125, 137.61552429199],
+    "viewangles": [-20.689535140991, -175.83685302734]
+  },
+  {
+    "name": ["Bombsite A", "Quad"],
+    "weapon": "weapon_hegrenade",
+    "position": [2046.1804199219, 502.55487060547, 160.03125],
+    "viewangles": [-12.044295310974, -107.41973876953],
+    "duck": true
+  },
+  {
+    "name": ["Quad", "Default"],
+    "weapon": "weapon_molotov",
+    "position": [1453.4588623047, -107.9688949585, 130.03125],
+    "viewangles": [-6.462628364563, 28.32297706604]
+  },
+  {
+    "name": ["Top of Mid", "Arch"],
+    "weapon": "weapon_molotov",
+    "position": [1330.458984375, 768.34918212891, 144.02893066406],
+    "viewangles": [-44.987884521484, 50.765407562256],
+    "position_visibility": [0, 0, 0],
+    "grenade": {
+      "fov": 180,
+      "recovery_yaw": -180,
+      "jump": true
+    },
+    "tickrate": 64,
+    "approach_accurate": true
+  },
+  {
+    "name": ["CT Start", "Bombsite A"],
+    "weapon": "weapon_smokegrenade",
+    "position": [2308.0388183594, 2160.4868164063, 128.03125],
+    "viewangles": [-38.67361831665, -104.24108886719]
+  },
+  {
+    "name": ["Garden", "Coffin"],
+    "weapon": "weapon_hegrenade",
+    "position": [718.02819824219, 3581.5751953125, 148.92500305176],
+    "viewangles": [-13.093547821045, -131.31597900391],
+    "grenade": {
+      "run": 7
+    }
+  },
+  {
+    "name": ["Top of Mid", "Haystack"],
+    "weapon": "weapon_hegrenade",
+    "position": [1517.9781494141, 792.03112792969, 139.95462036133],
+    "viewangles": [-13.932921409607, -146.28295898438]
+  },
+  {
+    "name": ["Arch", "Middle"],
+    "weapon": "weapon_molotov",
+    "position": [1680.4611816406, 1220.9367675781, 161.4602355957],
+    "viewangles": [-47.170272827148, -120.99672698975],
+    "position_visibility": [0, 0, 0],
+    "grenade": {
+      "fov": 180,
+      "run": 15,
+      "recovery_yaw": -180,
+      "jump": true
+    },
+    "tickrate": 64,
+    "approach_accurate": true
+  },
+  {
+    "name": ["2rd Main", "ApartmentsStairs"],
+    "weapon": "weapon_molotov",
+    "position": [27.009326934814, -84.968795776367, 39.446105957031],
+    "viewangles": [-23.583770751953, 5.751923084259],
+    "grenade": {
+      "run": 4
+    }
+  },
+  {
+    "name": ["Fountain", "CAR"],
+    "weapon": "weapon_hegrenade",
+    "position": [375.75646972656, 2619.3662109375, 189.03125],
+    "viewangles": [-47.048030853271, -88.417472839355],
+    "position_visibility": [0, 0, 0],
+    "grenade": {
+      "fov": 180,
+      "run": 10,
+      "recovery_yaw": -180,
+      "jump": true
+    },
+    "tickrate": 64,
+    "approach_accurate": true
+  },
+  {
+    "name": ["Caesar", "Graveyardv2"],
+    "weapon": "weapon_molotov",
+    "position": [1762.0330810547, 1360.9228515625, 160.03125],
+    "viewangles": [-19.634239196777, -54.917617797852]
+  },
+  {
+    "name": ["Caesar", "A-box"],
+    "weapon": "weapon_molotov",
+    "position": [1832.9774169922, 1387.2230224609, 160.03125],
+    "viewangles": [-24.114881515503, -76.673980712891]
+  },
+  {
+    "name": ["Caesar", "ABox+Site"],
+    "weapon": "weapon_molotov",
+    "position": [1956.4254150391, 1225.9969482422, 174.03125],
+    "viewangles": [-38.134651184082, -87.459527893066],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["Caesar", "Pit"],
+    "weapon": "weapon_molotov",
+    "position": [2061.8176269531, 1223.0457763672, 174.03125],
+    "viewangles": [-14.069932937622, -62.369979858398],
+    "grenade": {
+      "run": 20
+    }
+  },
+  {
+    "name": ["Caesar", "CenterBox"],
+    "weapon": "weapon_molotov",
+    "position": [2033.8726806641, 1178.3073730469, 162.24421691895],
+    "viewangles": [-45.979473114014, -91.904823303223],
+    "grenade": {
+      "run": 10,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Caesar", "Library"],
+    "weapon": "weapon_hegrenade",
+    "position": [2120.1940917969, 1010.025390625, 159.90393066406],
+    "viewangles": [-1.4781210422516, 22.91562461853]
+  },
+  {
+    "name": ["Caesar", "DoubleBox(StandStillInCorner)"],
+    "weapon": "weapon_hegrenade",
+    "position": [2147.9682617188, 1225.9526367188, 172.18096923828],
+    "viewangles": [3.9040067195892, -91.603569030762],
+    "grenade": {
+      "recovery_jump": true,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Caesar", "Front-RightSide"],
+    "weapon": "weapon_molotov",
+    "position": [1971.4301757813, 1094.82421875, 156.17811584473],
+    "viewangles": [-48.118087768555, -88.9716796875],
+    "grenade": {
+      "recovery_jump": true,
+      "recovery_yaw": 90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Caesar", "Rightside"],
+    "weapon": "weapon_molotov",
+    "position": [1988.2359619141, 306.2770690918, 160.03125],
+    "viewangles": [-40.111999511719, 86.462516784668],
+    "grenade": {
+      "run": 9,
+      "recovery_jump": true,
+      "recovery_yaw": 90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Caesar", "Mid_A_Left_Fire"],
+    "weapon": "weapon_molotov",
+    "position": [1149.4494628906, 434.03125, 110.91882324219],
+    "viewangles": [1.6133801937103, 48.906562805176],
+    "grenade": {
+      "run": 9,
+      "recovery_jump": true,
+      "recovery_yaw": 90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Caesar", "UnderArch"],
+    "weapon": "weapon_molotov",
+    "position": [1289.3197021484, 540.50433349609, 121.42625427246],
+    "viewangles": [-42.955986022949, 54.260066986084],
+    "grenade": {
+      "run": 11,
+      "recovery_jump": true,
+      "recovery_yaw": -90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Caesar", "Site\/Box"],
+    "weapon": "weapon_molotov",
+    "position": [1354.9896240234, 562.96411132813, 130.0877532959],
+    "viewangles": [-34.980167388916, -8.4850000143051],
+    "grenade": {
+      "recovery_jump": true,
+      "recovery_yaw": -90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Middle", "LegitAA"],
+    "weapon": "weapon_molotov",
+    "position": [1185.4484863281, 508.12860107422, 112.35684204102],
+    "viewangles": [-36.796100616455, 19.090581893921],
+    "grenade": {
+      "run": 20,
+      "recovery_jump": true,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Top of Mid", "defau"],
+    "weapon": "weapon_molotov",
+    "position": [1332.0112304688, 256.73736572266, 132.28489685059],
+    "viewangles": [-3.5821402072906, -48.087036132813],
+    "grenade": {
+      "run": 8,
+      "recovery_jump": true,
+      "recovery_yaw": 45,
+      "jump": true
+    }
+  }
 ]
