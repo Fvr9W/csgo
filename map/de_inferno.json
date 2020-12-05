@@ -419,5 +419,17 @@
       "recovery_yaw": 45,
       "jump": true
     }
+  },
+  {
+    "name": ["TopofMid", "b1gFrog"],
+    "weapon": "weapon_molotov",
+    "position": [1332.0230712891, 256.84906005859, 132.26890563965],
+    "viewangles": [12.607141494751, -7.1022567749023],
+    "grenade": {
+      "run": 12,
+      "recovery_jump": true,
+      "run_yaw": -90,
+      "jump": true
+    }
   }
 ]
