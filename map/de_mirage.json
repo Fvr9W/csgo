@@ -349,39 +349,39 @@
         "run": 18
       }
     },
-  {
-    "name": ["Alley", "Abox"],
-    "weapon": "weapon_molotov",
-    "position": [651.90405273438, -1128.0319824219, -127.96875],
-    "viewangles": [1.5013132095337, -138.28463745117],
-    "grenade": {
-      "run": 1,
-      "recovery_jump": true,
-      "run_yaw": 180,
-      "jump": true
+    {
+      "name": ["Alley", "Abox"],
+      "weapon": "weapon_molotov",
+      "position": [651.90405273438, -1128.0319824219, -127.96875],
+      "viewangles": [1.5013132095337, -138.28463745117],
+      "grenade": {
+        "run": 1,
+        "recovery_jump": true,
+        "run_yaw": 180,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Alley", "FakeDuck"],
+      "weapon": "weapon_molotov",
+      "position": [691.58831787109, -1130.1516113281, -127.96875],
+      "viewangles": [-1.8989678621292, -136.21195983887],
+      "grenade": {
+        "strength": 0.5,
+        "run": 1,
+        "recovery_jump": true,
+        "recovery_yaw": 0,
+        "jump": true
     }
   },
   {
-    "name": ["Alley", "FakeDuck"],
-    "weapon": "weapon_molotov",
-    "position": [691.58831787109, -1130.1516113281, -127.96875],
-    "viewangles": [-1.8989678621292, -136.21195983887],
-    "grenade": {
-      "strength": 0.5,
-      "run": 1,
-      "recovery_jump": true,
-      "recovery_yaw": 0,
-      "jump": true
-    }
-  },
-  {
-    "name": ["A2", "Abox"],
-    "weapon": "weapon_molotov",
-    "position": [16.038972854614, -2237.4548339844, -39.96875],
-    "viewangles": [-4.1151485443115, 15.736959457397],
-    "grenade": {
-      "run": 1,
-      "recovery_yaw": 180
+      "name": ["A2", "Abox"],
+      "weapon": "weapon_molotov",
+      "position": [16.038972854614, -2237.4548339844, -39.96875],
+      "viewangles": [-4.1151485443115, 15.736959457397],
+      "grenade": {
+        "run": 1,
+        "recovery_yaw": 180
     }
   }
 ]
