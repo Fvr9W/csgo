@@ -1,387 +1,3058 @@
 [
-    {
-      "name": ["Windows", "FakeDuck"],
-      "weapon": "weapon_molotov",
-      "position": [-1247.9923095703, -722.93499755859, -128.96875],
-      "viewangles": [2.2197530269623, -34.267101287842],
-      "grenade": {
-        "run": 13
-      }
-    },
-    {
-      "name": ["Windows", "FakeDuck"],
-      "weapon": "weapon_hegrenade",
-      "position": [-1247.984375, -722.7392578125, -128.96875],
-      "viewangles": [3.4832239151001, -34.377933502197],
-      "grenade": {
-        "run": 13
-      }
-    },
-    {
-      "name": ["CT Start", "Truck"],
-      "weapon": "weapon_smokegrenade",
-      "position": [-1588.9583740234, -1997.3259277344, -267.53430175781],
-      "viewangles": [-37.769947052002, 102.19962310791]
-    },
-    {
-      "name": ["Shop", "Truck"],
-      "weapon": "weapon_smokegrenade",
-      "position": [-1848.7769775391, -538.03167724609, -167.96875],
-      "viewangles": [-10.114032745361, 103.84764862061],
-      "grenade": {
-        "run": 7
-      }
-    },
-    {
-      "name": ["Windows", "underConnector"],
-      "weapon": "weapon_molotov",
-      "position": [-1236.8255615234, -972.27471923828, -167.96875],
-      "viewangles": [-4.5742464065552, 64.681953430176],
-      "grenade": {
-        "run": 16
-      }
-    },
-    {
-      "name": ["Windows", "MiddleESP"],
-      "weapon": "weapon_flashbang",
-      "position": [-1183.9934082031, -833.89855957031, -167.96875],
-      "viewangles": [-0.17716121673584, 23.740461349487],
-      "duck": true
-    },
-    {
-      "name": ["Windows", "underConnector"],
-      "weapon": "weapon_hegrenade",
-      "position": [-1237.8790283203, -971.70251464844, -167.96875],
-      "viewangles": [-4.6139183044434, 64.602188110352],
-      "grenade": {
-        "run": 15
-      }
-    },
-    {
-      "name": ["A2", "Boost"],
-      "weapon": "weapon_hegrenade",
-      "position": [87.954002380371, -2166.6650390625, -35.96875],
-      "viewangles": [-2.8116924762726, -176.77119445801],
-      "grenade": {
-        "run": 6
-      }
-    },
-    {
-      "name": ["Apartments", "Truck"],
-      "weapon": "weapon_molotov",
-      "position": [-1167.9093017578, 648.86853027344, -79.96875],
-      "viewangles": [-10.533688545227, 171.80416870117],
-      "duck": true
-    },
-    {
-      "name": ["Apartments", "Truck"],
-      "weapon": "weapon_hegrenade",
-      "position": [-1167.8267822266, 652.59460449219, -79.96875],
-      "viewangles": [-10.869420051575, 172.13928222656],
-      "duck": true
-    },
-    {
-      "name": ["CT Start", "theBox"],
-      "weapon": "weapon_molotov",
-      "position": [-1191.1187744141, -2258.08984375, -188.18843078613],
-      "viewangles": [-25.33332824707, -25.726707458496],
-      "grenade": {
-        "run": 16
-      }
-    },
-    {
-      "name": ["CT Start", "theA"],
-      "weapon": "weapon_molotov",
-      "position": [-1247.1137695313, -2380.5693359375, -191.22087097168],
-      "viewangles": [-21.514230728149, 16.881006240845]
-    },
-    {
-      "name": ["CT Start", "theA"],
-      "weapon": "weapon_hegrenade",
-      "position": [-1438.8666992188, -2417.5869140625, -227.10499572754],
-      "viewangles": [-21.178583145142, 15.999567985535],
-      "grenade": {
-        "run": 10
-      }
-    },
-    {
-      "name": ["CT start", "FakeDuck"],
-      "weapon": "weapon_molotov",
-      "position": [-1229.3726806641, -2463.6733398438, -182.13983154297],
-      "viewangles": [-17.86336517334, 29.344985961914],
-      "grenade": {
-        "run": 6
-      }
-    },
-    {
-      "name": ["CT Start", "Windows"],
-      "weapon": "weapon_molotov",
-      "position": [-1541.8570556641, -1161.201171875, -244.56465148926],
-      "viewangles": [-10.615944862366, 39.735748291016]
-    },
-    {
-      "name": ["A2", "underBoost"],
-      "weapon": "weapon_molotov",
-      "position": [87.96875, -2166.5686035156, -35.96875],
-      "viewangles": [-2.5199460983276, -176.64837646484],
-      "grenade": {
-        "run": 4
-      }
-    },
-    {
-      "name": ["Tsite", "Stairs"],
-      "weapon": "weapon_molotov",
-      "position": [-11.695363998413, -1544.8615722656, -168.4098815918],
-      "viewangles": [-27.954891204834, 171.8133392334]
-    },
-    {
-      "name": ["Tsite", "Stairs"],
-      "weapon": "weapon_hegrenade",
-      "position": [-11.626521110535, -1544.8356933594, -168.41656494141],
-      "viewangles": [-27.42696762085, 172.8699798584]
-    },
-    {
-      "name": ["Connector", "Windows"],
-      "weapon": "weapon_molotov",
-      "position": [-615.23608398438, -1211.4165039063, -167.96875],
-      "viewangles": [-6.743896484375, -139.7843170166],
-      "grenade": {
-        "run": 12
-      }
-    },
-    {
-      "name": ["Middle", "UPconnector Oneway"],
-      "weapon": "weapon_molotov",
-      "position": [-493.71026611328, -593.40649414063, -276.7043762207],
-      "viewangles": [-13.571442604065, -119.28581237793],
-      "grenade": {
-        "run": 2
-      }
-    },
-    {
-      "name": ["Tunnel", "Windows"],
-      "weapon": "weapon_molotov",
-      "position": [-985.66003417969, -263.86346435547, -367.96875],
-      "viewangles": [-33.518501281738, -107.61067962646],
-      "grenade": {
-        "run": 4
-      }
-    },
-    {
-      "name": ["Connector", "Pusyy"],
-      "weapon": "weapon_molotov",
-      "position": [-731.90411376953, -1625.4205322266, -168.11088562012],
-      "viewangles": [-21.707370758057, 8.9165086746216],
-      "grenade": {
-        "run": 6
-      }
-    },
-    {
-      "name": ["Shop", "Plant"],
-      "weapon": "weapon_hegrenade",
-      "position": [-1845.6999511719, -641.29016113281, -167.90618896484],
-      "viewangles": [-6.9899997711182, 101.64898681641]
-    },
-    {
-      "name": ["Shop", "Plant"],
-      "weapon": "weapon_molotov",
-      "position": [-1845.6982421875, -641.29833984375, -167.96875],
-      "viewangles": [-8.3000001907349, 101.64898681641]
-    },
-    {
-      "name": ["Shop", "Plant"],
-      "weapon": "weapon_hegrenade",
-      "position": [-1845.6999511719, -641.29016113281, -167.90618896484],
-      "viewangles": [-6.9899997711182, 101.64898681641]
-    },
-    {
-      "name": ["Shop", "PlantLeft_50HP"],
-      "weapon": "weapon_hegrenade",
-      "position": [-2061.5009765625, -611.95275878906, -167.96875],
-      "viewangles": [3.3253712654114, 71.161743164063]
-    },
-    {
-      "name": ["Door", "Plant"],
-      "weapon": "weapon_molotov",
-      "position": [-1326.4399414063, 308.19198608398, -167.96875],
-      "viewangles": [-9.2600002288818, 141.5],
-      "grenade": {
-        "run": 11
-      }
-    },
-    {
-      "name": ["Door", "Plant_46HP"],
-      "weapon": "weapon_hegrenade",
-      "position": [-1326.4368896484, 308.18951416016, -167.96875],
-      "viewangles": [-9.2600002288818, 141.5],
-      "grenade": {
-        "run": 11
-      }
-    },
-    {
-      "name": ["Door", "maxRange"],
-      "weapon": "weapon_molotov",
-      "position": [-1267.7733154297, 264.64929199219, -166.04014587402],
-      "viewangles": [0.20000000298023, 178.27565002441]
-    },
-    {
-      "name": ["Stairs", "BombA"],
-      "weapon": "weapon_molotov",
-      "position": [-543.8466796875, -1309.0323486328, -159.96875],
-      "viewangles": [-11.039438247681, -74.426200866699]
-    },
-    {
-      "name": ["Staris", "BombA_50Hp"],
-      "weapon": "weapon_hegrenade",
-      "position": [-543.85070800781, -1309.0174560547, -159.96875],
-      "viewangles": [-11.039438247681, -74.426200866699]
-    },
-    {
-      "name": ["Mid", "Windows"],
-      "weapon": "weapon_molotov",
-      "position": [336.83065795898, -147.99647521973, -165.96875],
-      "viewangles": [-17.108072280884, -152.07518005371],
-      "grenade": {
-        "run": 34
-      }
-    },
-    {
-      "name": ["Connector", "BombA"],
-      "weapon": "weapon_molotov",
-      "position": [-719.97259521484, -982.81304931641, -215.9700012207],
-      "viewangles": [-16.89999961853, -70.208923339844],
-      "grenade": {
-        "run": 2
-      }
-    },
-    {
-      "name": ["Connector", "BombA_53HP"],
-      "weapon": "weapon_hegrenade",
-      "position": [-719.96997070313, -982.82000732422, -215.9700012207],
-      "viewangles": [-16.89999961853, -70.208923339844],
-      "grenade": {
-        "run": 1
-      }
-    },
-    {
-      "name": ["Connector", "Pusyy"],
-      "weapon": "weapon_molotov",
-      "position": [-731.90411376953, -1625.4205322266, -168.11088562012],
-      "viewangles": [-21.707370758057, 8.9165086746216],
-      "grenade": {
-        "run": 6
-      }
-    },
-    {
-      "name": ["Middle", "Catwalk_53HP"],
-      "weapon": "weapon_hegrenade",
-      "position": [-470.63766479492, -660.07263183594, -274.12124633789],
-      "viewangles": [-22.461057662964, 123.00708007813]
-    },
-    {
-      "name": ["T Ramp", "Stairs"],
-      "weapon": "weapon_molotov",
-      "position": [479.26998901367, -1556.0310058594, -251.60000610352],
-      "viewangles": [-25.085971832275, 177.68992614746]
-    },
-    {
-      "name": ["T Ramp", "Stairs"],
-      "weapon": "weapon_hegrenade",
-      "position": [454.85791015625, -1551.0428466797, -239.39822387695],
-      "viewangles": [-24.933948516846, 178.56188964844]
-    },
-	{
-      "name": ["Connector", "boost-oneway"],
-      "weapon": "weapon_molotov",
-      "position": [-690.651794, -797.930359, -263.96875],
-      "viewangles": [0.5, -92.15],
-      "grenade": {
-        "run": 22,
-        "recovery_jump": true,
-        "recovery_yaw": -12,
-        "jump": true
-      }
-    },
-	{
-      "name": ["Stairs", "short"],
-      "weapon": "weapon_molotov",
-      "position": [-508.43008422851563, -1633.9619140625, -39.96875],
-      "viewangles": [6.7376694679260254, 101.17758178710938],
-      "grenade": {
-        "run": 13,
-        "recovery_jump": true,
-        "jump": true
-      }
-    },
-	{
-      "name": ["Stairs", "ramp 1w"],
-      "weapon": "weapon_molotov",
-      "position": [-401.9287109375, -1587.27294921875, -39.96875],
-      "viewangles": [-17.932487487792969, 2.9161977767944336]
-    },
-	{
-      "name": ["PI", "Aplant"],
-      "weapon": "weapon_molotov",
-      "position": [83.778907775879, -2373.3547363281, -39.96875],
-      "viewangles": [12.059456825256, 111.54964447021]
-	},
-	{
-      "name": ["PI", "Aplant"],
-      "weapon": "weapon_hegrenade",
-      "position": [83.778907775879, -2373.3547363281, -39.96875],
-      "viewangles": [12.059456825256, 111.54964447021]
-	},
-	{
-      "name": ["Tunnel", "short"],
-      "weapon": "weapon_hegrenade",
-      "position": [-1033.08837890625, -162.31962585449219, -367.96875],
-      "viewangles": [-10.437341690063477, -76.621986389160156],
-      "grenade": {
-        "run": 22
-      }
-    },
-	{
-      "name": ["Tunnel", "short"],
-      "weapon": "weapon_molotov",
-      "position": [-1037.25390625, -155.898681640625, -367.96875],
-      "viewangles": [-10.188270568847656, -76.552093505859375],
-      "grenade": {
-        "run": 18
-      }
-    },
-    {
-      "name": ["Alley", "Abox"],
-      "weapon": "weapon_molotov",
-      "position": [651.90405273438, -1128.0319824219, -127.96875],
-      "viewangles": [1.5013132095337, -138.28463745117],
-      "grenade": {
-        "run": 1,
-        "recovery_jump": true,
-        "run_yaw": 180,
-        "jump": true
-      }
-    },
-    {
-      "name": ["Alley", "FakeDuck"],
-      "weapon": "weapon_molotov",
-      "position": [691.58831787109, -1130.1516113281, -127.96875],
-      "viewangles": [-1.8989678621292, -136.21195983887],
-      "grenade": {
-        "strength": 0.5,
-        "run": 1,
-        "recovery_jump": true,
-        "recovery_yaw": 0,
-        "jump": true
+  {
+    "name": ["Windows", "FakeDuck"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_molotov",
+    "position": [-1247.9923095703, -722.93499755859, -128.96875],
+    "viewangles": [2.2197530269623, -34.267101287842],
+    "grenade": {
+      "run": 13
     }
   },
   {
-      "name": ["A2", "Abox"],
-      "weapon": "weapon_molotov",
-      "position": [16.038972854614, -2237.4548339844, -39.96875],
-      "viewangles": [-4.1151485443115, 15.736959457397],
-      "grenade": {
-        "run": 1,
-        "recovery_yaw": 180
+    "name": ["Windows", "FakeDuck"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_hegrenade",
+    "position": [-1247.984375, -722.7392578125, -128.96875],
+    "viewangles": [3.4832239151001, -34.377933502197],
+    "grenade": {
+      "run": 13
+    }
+  },
+  {
+    "name": ["CT Start", "Truck"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_smokegrenade",
+    "position": [-1588.9583740234, -1997.3259277344, -267.53430175781],
+    "viewangles": [-37.769947052002, 102.19962310791]
+  },
+  {
+    "name": ["Shop", "Truck"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_smokegrenade",
+    "position": [-1848.7769775391, -538.03167724609, -167.96875],
+    "viewangles": [-10.114032745361, 103.84764862061],
+    "grenade": {
+      "run": 7
+    }
+  },
+  {
+    "name": ["Windows", "underConnector"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_molotov",
+    "position": [-1236.8255615234, -972.27471923828, -167.96875],
+    "viewangles": [-4.5742464065552, 64.681953430176],
+    "grenade": {
+      "run": 16
+    }
+  },
+  {
+    "name": ["Windows", "MiddleESP"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_flashbang",
+    "position": [-1183.9934082031, -833.89855957031, -167.96875],
+    "viewangles": [-0.17716121673584, 23.740461349487],
+    "duck": true
+  },
+  {
+    "name": ["Windows", "underConnector"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_hegrenade",
+    "position": [-1237.8790283203, -971.70251464844, -167.96875],
+    "viewangles": [-4.6139183044434, 64.602188110352],
+    "grenade": {
+      "run": 15
+    }
+  },
+  {
+    "name": ["A2", "Boost"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_hegrenade",
+    "position": [87.954002380371, -2166.6650390625, -35.96875],
+    "viewangles": [-2.8116924762726, -176.77119445801],
+    "grenade": {
+      "run": 6
+    }
+  },
+  {
+    "name": ["Apartments", "Truck"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_molotov",
+    "position": [-1167.9093017578, 648.86853027344, -79.96875],
+    "viewangles": [-10.533688545227, 171.80416870117],
+    "duck": true
+  },
+  {
+    "name": ["Apartments", "Truck"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_hegrenade",
+    "position": [-1167.8267822266, 652.59460449219, -79.96875],
+    "viewangles": [-10.869420051575, 172.13928222656],
+    "duck": true
+  },
+  {
+    "name": ["CT Start", "theBox"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_molotov",
+    "position": [-1191.1187744141, -2258.08984375, -188.18843078613],
+    "viewangles": [-25.33332824707, -25.726707458496],
+    "grenade": {
+      "run": 16
+    }
+  },
+  {
+    "name": ["CT Start", "theA"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_molotov",
+    "position": [-1247.1137695313, -2380.5693359375, -191.22087097168],
+    "viewangles": [-21.514230728149, 16.881006240845]
+  },
+  {
+    "name": ["CT Start", "theA"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_hegrenade",
+    "position": [-1438.8666992188, -2417.5869140625, -227.10499572754],
+    "viewangles": [-21.178583145142, 15.999567985535],
+    "grenade": {
+      "run": 10
+    }
+  },
+  {
+    "name": ["CT start", "FakeDuck"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_molotov",
+    "position": [-1229.3726806641, -2463.6733398438, -182.13983154297],
+    "viewangles": [-17.86336517334, 29.344985961914],
+    "grenade": {
+      "run": 6
+    }
+  },
+  {
+    "name": ["CT Start", "Windows"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_molotov",
+    "position": [-1541.8570556641, -1161.201171875, -244.56465148926],
+    "viewangles": [-10.615944862366, 39.735748291016]
+  },
+  {
+    "name": ["A2", "underBoost"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_molotov",
+    "position": [87.96875, -2166.5686035156, -35.96875],
+    "viewangles": [-2.5199460983276, -176.64837646484],
+    "grenade": {
+      "run": 4
+    }
+  },
+  {
+    "name": ["Connector", "Windows"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_molotov",
+    "position": [-615.23608398438, -1211.4165039063, -167.96875],
+    "viewangles": [-6.743896484375, -139.7843170166],
+    "grenade": {
+      "run": 12
+    }
+  },
+  {
+    "name": ["Middle", "UPconnector Oneway"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_molotov",
+    "position": [-493.71026611328, -593.40649414063, -276.7043762207],
+    "viewangles": [-13.571442604065, -119.28581237793],
+    "grenade": {
+      "run": 2
+    }
+  },
+  {
+    "name": ["Connector", "Pusyy"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_molotov",
+    "position": [-731.90411376953, -1625.4205322266, -168.11088562012],
+    "viewangles": [-21.707370758057, 8.9165086746216],
+    "grenade": {
+      "run": 6
+    }
+  },
+  {
+    "name": ["Shop", "Plant"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_hegrenade",
+    "position": [-1845.6999511719, -641.29016113281, -167.90618896484],
+    "viewangles": [-6.9899997711182, 101.64898681641]
+  },
+  {
+    "name": ["Shop", "Plant"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_molotov",
+    "position": [-1845.6982421875, -641.29833984375, -167.96875],
+    "viewangles": [-8.3000001907349, 101.64898681641]
+  },
+  {
+    "name": ["Shop", "Plant"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_hegrenade",
+    "position": [-1845.6999511719, -641.29016113281, -167.90618896484],
+    "viewangles": [-6.9899997711182, 101.64898681641]
+  },
+  {
+    "name": ["Shop", "PlantLeft_50HP"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_hegrenade",
+    "position": [-2061.5009765625, -611.95275878906, -167.96875],
+    "viewangles": [3.3253712654114, 71.161743164063]
+  },
+  {
+    "name": ["Door", "Plant"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_molotov",
+    "position": [-1298.9987792969, 286.22079467773, -167.96875],
+    "viewangles": [-10.201167106628, 141.46963500977],
+    "grenade": {
+      "run": 11,
+      "recovery_yaw": 90
+    }
+  },
+  {
+    "name": ["Door", "Plant_46HP"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_hegrenade",
+    "position": [-1298.9775390625, 286.2008972168, -167.96875],
+    "viewangles": [-10.110159873962, 141.46974182129],
+    "grenade": {
+      "run": 11,
+      "recovery_yaw": 90
+    }
+  },
+  {
+    "name": ["Door", "maxRange"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_molotov",
+    "position": [-1267.7733154297, 264.64929199219, -166.04014587402],
+    "viewangles": [0.20000000298023, 178.27565002441]
+  },
+  {
+    "name": ["Stairs", "BombA"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_molotov",
+    "position": [-543.8466796875, -1309.0323486328, -159.96875],
+    "viewangles": [-11.039438247681, -74.426200866699]
+  },
+  {
+    "name": ["Staris", "BombA_50Hp"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_hegrenade",
+    "position": [-543.85070800781, -1309.0174560547, -159.96875],
+    "viewangles": [-11.039438247681, -74.426200866699]
+  },
+  {
+    "name": ["Mid", "Windows"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_molotov",
+    "position": [336.83065795898, -147.99647521973, -165.96875],
+    "viewangles": [-17.108072280884, -152.07518005371],
+    "grenade": {
+      "run": 34
+    }
+  },
+  {
+    "name": ["Connector", "BombA"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_molotov",
+    "position": [-719.97259521484, -982.81304931641, -215.9700012207],
+    "viewangles": [-16.89999961853, -70.208923339844],
+    "grenade": {
+      "run": 2
+    }
+  },
+  {
+    "name": ["Connector", "BombA_53HP"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_hegrenade",
+    "position": [-719.96997070313, -982.82000732422, -215.9700012207],
+    "viewangles": [-16.89999961853, -70.208923339844],
+    "grenade": {
+      "run": 1
+    }
+  },
+  {
+    "name": ["Connector", "Pusyy"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_molotov",
+    "position": [-731.90411376953, -1625.4205322266, -168.11088562012],
+    "viewangles": [-21.707370758057, 8.9165086746216],
+    "grenade": {
+      "run": 6
+    }
+  },
+  {
+    "name": ["Middle", "Catwalk_53HP"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_hegrenade",
+    "position": [-470.63766479492, -660.07263183594, -274.12124633789],
+    "viewangles": [-22.461057662964, 123.00708007813]
+  },
+  {
+    "name": ["T Ramp", "Stairs"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_molotov",
+    "position": [479.26998901367, -1556.0310058594, -251.60000610352],
+    "viewangles": [-25.085971832275, 177.68992614746]
+  },
+  {
+    "name": ["T Ramp", "Stairs"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_hegrenade",
+    "position": [454.85791015625, -1551.0428466797, -239.39822387695],
+    "viewangles": [-24.933948516846, 178.56188964844]
+  },
+  {
+    "name": ["Connector", "boost-oneway"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_molotov",
+    "position": [-690.65179443359, -797.93035888672, -263.96875],
+    "viewangles": [0.5, -92.15],
+    "grenade": {
+      "run": 22,
+      "recovery_jump": true,
+      "recovery_yaw": -12,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Stairs", "short"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_molotov",
+    "position": [-508.43008422852, -1633.9619140625, -39.96875],
+    "viewangles": [6.737669467926, 101.17758178711],
+    "grenade": {
+      "run": 13,
+      "recovery_jump": true,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Stairs", "ramp 1w"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_molotov",
+    "position": [-401.9287109375, -1587.2729492188, -39.96875],
+    "viewangles": [-17.932487487793, 2.9161977767944]
+  },
+  {
+    "name": ["PI", "Aplant"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_molotov",
+    "position": [83.778907775879, -2373.3547363281, -39.96875],
+    "viewangles": [12.059456825256, 111.54964447021]
+  },
+  {
+    "name": ["PI", "Aplant"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_hegrenade",
+    "position": [83.778907775879, -2373.3547363281, -39.96875],
+    "viewangles": [12.059456825256, 111.54964447021]
+  },
+  {
+    "name": ["Tunnel", "short"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_hegrenade",
+    "position": [-1033.0883789063, -162.31962585449, -367.96875],
+    "viewangles": [-10.437341690063, -76.62198638916],
+    "grenade": {
+      "run": 22
+    }
+  },
+  {
+    "name": ["Tunnel", "short"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_molotov",
+    "position": [-1037.25390625, -155.89868164063, -367.96875],
+    "viewangles": [-10.188270568848, -76.552093505859],
+    "grenade": {
+      "run": 18
+    }
+  },
+  {
+    "name": ["Alley", "Abox"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_molotov",
+    "position": [651.90405273438, -1128.0319824219, -127.96875],
+    "viewangles": [1.5013132095337, -138.28463745117],
+    "grenade": {
+      "run": 1,
+      "recovery_jump": true,
+      "run_yaw": 180,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Alley", "FakeDuck"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_molotov",
+    "position": [691.58831787109, -1130.1516113281, -127.96875],
+    "viewangles": [-1.8989678621292, -136.21195983887],
+    "grenade": {
+      "strength": 0.5,
+      "run": 1,
+      "recovery_jump": true,
+      "recovery_yaw": 0,
+      "jump": true
+    }
+  },
+  {
+    "name": ["A2", "Abox"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_molotov",
+    "position": [16.038972854614, -2237.4548339844, -39.96875],
+    "viewangles": [-4.1151485443115, 15.736959457397],
+    "grenade": {
+      "run": 1,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["A2", "onewayPussy"],
+    "weapon": "weapon_molotov",
+    "position": [184.15657043457, -2302.7238769531, -39.96875],
+    "viewangles": [-5.859543800354, 114.47418212891],
+    "grenade": {
+      "run": 5,
+      "recovery_jump": true,
+      "delay": 5,
+      "recovery_yaw": 180,
+      "run_yaw": 90
+    }
+  },
+  {
+    "name": ["A2", "onewayPussy57HP"],
+    "weapon": "weapon_hegrenade",
+    "position": [149.61109924316, -2332.8188476563, -39.96875],
+    "viewangles": [-6.3757190704346, 130.36567687988],
+    "grenade": {
+      "run": 7,
+      "recovery_jump": true,
+      "recovery_yaw": -150
+    }
+  },
+  {
+    "name": ["tunnel", "dogside"],
+    "weapon": "weapon_molotov",
+    "position": [-996.99713134766, -323.88046264648, -367.96875],
+    "viewangles": [-32.940547943115, -106.35187530518]
+  },
+  {
+    "name": ["tunnel", "dogside"],
+    "weapon": "weapon_hegrenade",
+    "position": [-997.00231933594, -323.94921875, -367.96875],
+    "viewangles": [-32.683132171631, -110.65269470215]
+  },
+  {
+    "name": ["middle", "1wayPussy"],
+    "weapon": "weapon_molotov",
+    "position": [-787.38897705078, -726.51605224609, -266.48184204102],
+    "viewangles": [-21.403978347778, -48.940101623535],
+    "grenade": {
+      "run": 7,
+      "delay": 7,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["middle", "1wayPussy"],
+    "weapon": "weapon_hegrenade",
+    "position": [-787.38897705078, -726.51605224609, -266.48184204102],
+    "viewangles": [-21.403978347778, -48.940101623535],
+    "grenade": {
+      "run": 7,
+      "delay": 7,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["middle", "catwalk53HP"],
+    "weapon": "weapon_hegrenade",
+    "position": [-787.39697265625, -726.51062011719, -266.48596191406],
+    "viewangles": [-20.553586959839, 100.21031951904]
+  },
+  {
+    "name": ["middle", "catwalk"],
+    "weapon": "weapon_molotov",
+    "position": [-787.4248046875, -726.53393554688, -266.48263549805],
+    "viewangles": [-21.555513381958, 99.785263061523]
+  },
+  {
+    "name": ["con", "Lnoob"],
+    "weapon": "weapon_molotov",
+    "position": [-668.36560058594, -918.87896728516, -224.52966308594],
+    "viewangles": [-14.193762779236, 72.803871154785],
+    "grenade": {
+      "run": 14,
+      "recovery_jump": true,
+      "delay": 7,
+      "recovery_yaw": -90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Tsite", "onewayPussy"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_molotov",
+    "position": [479.35025024414, -1556.0871582031, -251.64588928223],
+    "viewangles": [-18.474647521973, -178.64080810547],
+    "grenade": {
+      "run": 7
+    }
+  },
+  {
+    "name": ["car ", "co"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_molotov",
+    "position": [-2325.2136230469, 812.55249023438, -119.65711212158],
+    "viewangles": [-6.800696849823, -24.701683044434],
+    "grenade": {
+      "run": 10
+    }
+  },
+  {
+    "name": ["car", "co50HP"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_hegrenade",
+    "position": [-2325.2260742188, 812.55737304688, -119.66741943359],
+    "viewangles": [-5.2826662063599, -24.501733779907],
+    "grenade": {
+      "run": 10
+    }
+  },
+  {
+    "name": ["t", "MAX 56HP"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_hegrenade",
+    "position": [-13.259148597717, -1525.0137939453, -168.25010681152],
+    "viewangles": [-34.671810150146, 176.78413391113]
+  },
+  {
+    "name": ["down", "bugFire"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_molotov",
+    "position": [-1047.6361083984, 147.29643249512, -359.96875],
+    "viewangles": [-76.021179199219, 179.69966125488],
+    "duck": true
+  },
+  {
+    "name": ["catwalk", "whiteCar"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_molotov",
+    "position": [-1095.7939453125, 282.45727539063, -165.69177246094],
+    "viewangles": [-11.901332855225, 132.27865600586],
+    "grenade": {
+      "run": 10,
+      "delay": 10,
+      "run_yaw": 90
+    }
+  },
+  {
+    "name": ["catwalk", "whiteCar"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_hegrenade",
+    "position": [-1298.9729003906, 286.20333862305, -167.96875],
+    "viewangles": [-15.696496963501, 151.1333770752]
+  },
+  {
+    "name": ["catwalk", "whiteCar"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_molotov",
+    "position": [-1299.0225830078, 286.26312255859, -167.96875],
+    "viewangles": [-15.423007965088, 151.32760620117]
+  },
+  {
+    "name": ["b", "1v1"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_hegrenade",
+    "position": [-1796.6314697266, 101.50437927246, -165.71875],
+    "viewangles": [-19.734098434448, -126.19277954102],
+    "grenade": {
+      "run": 3,
+      "delay": 3,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["b", "1v1"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_molotov",
+    "position": [-1796.5596923828, 101.52020263672, -165.71875],
+    "viewangles": [-24.682439804077, -126.32384490967],
+    "grenade": {
+      "run": 3,
+      "delay": 3,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["a", "stairs"],
+    "description": "stairs",
+    "weapon": "weapon_molotov",
+    "position": [-91.085914611816, -1418.0616455078, -115.96875],
+    "viewangles": [-5.6165933609009, -63.734287261963],
+    "grenade": {
+      "run": 5,
+      "jump": true
+    }
+  },
+  {
+    "name": ["vip", "abox"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_molotov",
+    "position": [-1311.482421875, -1131.2220458984, -167.96875],
+    "viewangles": [-16.060543060303, -42.950290679932],
+    "grenade": {
+      "run": 3,
+      "recovery_yaw": 90
+    }
+  },
+  {
+    "name": ["vip", "abox50HP"],
+    "description": "Created by Caesar",
+    "weapon": "weapon_hegrenade",
+    "position": [-1311.4868164063, -1131.1989746094, -167.97048950195],
+    "viewangles": [-16.789171218872, -43.886741638184],
+    "grenade": {
+      "run": 5,
+      "delay": 5,
+      "recovery_yaw": 90
+    }
+  },
+  {
+    "name": ["T Ramp", "FD"],
+    "weapon": "weapon_hegrenade",
+    "position": [356.4006652832, -1699.8212890625, -190.16540527344],
+    "viewangles": [-12.584822654724, 124.28164672852],
+    "grenade": {
+      "run": 12
+    }
+  },
+  {
+    "name": ["stairs", "T Roof"],
+    "weapon": "weapon_hegrenade",
+    "position": [-512.00354003906, -1555.8955078125, -39.96875],
+    "viewangles": [-0.26935377717018, 0.77622509002686],
+    "grenade": {
+      "run": 12,
+      "recovery_jump": true,
+      "delay": 11,
+      "jump": true
+    }
+  },
+  {
+    "name": ["T Ramp", "T roof"],
+    "description": "HOLD JUMP + MOVE LEFT AFTER THROW",
+    "weapon": "weapon_hegrenade",
+    "position": [14.529964447021, -1562.0155029297, -171.03372192383],
+    "viewangles": [37.88436126709, 0.14600802958012],
+    "grenade": {
+      "run": 27,
+      "recovery_jump": true,
+      "delay": 33,
+      "recovery_yaw": 90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["T Ramp", "T roof"],
+    "weapon": "weapon_hegrenade",
+    "position": [-92.103584289551, -1528.3306884766, -53.96875],
+    "viewangles": [-13.110757827759, -1.0739780664444],
+    "grenade": {
+      "recovery_jump": true,
+      "delay": 20,
+      "jump": true
+    }
+  },
+  {
+    "name": ["S Nest", "ConnectorDoor"],
+    "weapon": "weapon_molotov",
+    "position": [-1272.8981933594, -1069.1619873047, -167.96875],
+    "viewangles": [14.907538414001, -30.281921386719],
+    "grenade": {
+      "run": 20,
+      "run_yaw": -70,
+      "jump": true
+    }
+  },
+  {
+    "name": ["S Nest", "ConnectorDoor"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1272.8924560547, -1069.1658935547, -167.96875],
+    "viewangles": [14.907538414001, -30.281921386719],
+    "grenade": {
+      "run": 20,
+      "run_yaw": -70,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Short", "Apss"],
+    "weapon": "weapon_molotov",
+    "position": [-752.78491210938, -33.894229888916, -161.35690307617],
+    "viewangles": [-40.46997833252, 86.814582824707],
+    "grenade": {
+      "recovery_yaw": 0,
+      "jump": true
+    },
+    "duck": true
+  },
+  {
+    "name": ["Short", "Apss"],
+    "weapon": "weapon_hegrenade",
+    "position": [-752.78546142578, -33.904319763184, -161.35705566406],
+    "viewangles": [-40.46997833252, 86.814582824707],
+    "grenade": {
+      "recovery_yaw": 0,
+      "jump": true
+    },
+    "duck": true
+  },
+  {
+    "name": ["Unnamed", "Short"],
+    "weapon": "weapon_molotov",
+    "position": [-694.16052246094, 615.84777832031, -80.186599731445],
+    "viewangles": [-38.348571777344, -97.228782653809],
+    "grenade": {
+      "run": 1,
+      "recovery_jump": true,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Appartments", "Short"],
+    "weapon": "weapon_hegrenade",
+    "position": [-607.88354492188, 615.93933105469, -78.975250244141],
+    "viewangles": [-34.472412109375, -112.22882843018],
+    "grenade": {
+      "jump": true
+    },
+    "duck": true
+  },
+  {
+    "name": ["stairs", "Tunnel"],
+    "description": "Hide Spot",
+    "weapon": "weapon_hegrenade",
+    "position": [-929.8115234375, 374.07669067383, -367.96875],
+    "viewangles": [-3.9279947280884, -94.770149230957],
+    "grenade": {
+      "run": 5,
+      "recovery_yaw": 180,
+      "run_yaw": -90
+    }
+  },
+  {
+    "name": ["stairs", "Tunnel"],
+    "description": "Hide Spot",
+    "weapon": "weapon_molotov",
+    "position": [-929.99523925781, 374.16400146484, -367.96875],
+    "viewangles": [-7.4259958267212, -93.485885620117],
+    "grenade": {
+      "run": 5,
+      "recovery_yaw": 180,
+      "run_yaw": -90
+    }
+  },
+  {
+    "name": ["Jungle", "Lnoob"],
+    "weapon": "weapon_molotov",
+    "position": [-1019.962097168, -1510.9298095703, -165.55558776855],
+    "viewangles": [-14.399830818176, 37.550373077393],
+    "grenade": {
+      "strength": 0.5,
+      "run": 5,
+      "run_speed": true,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Middle Bench", "Window"],
+    "description": "low",
+    "weapon": "weapon_knife",
+    "position": [-837.47985839844, -779.99822998047, -241.96875],
+    "viewangles": [1.6069848537445, 177.66337585449],
+    "movement": {
+      "frames": [
+        [
+          0,
+          0,
+          "F",
+          225
+        ],
+        1,
+        [
+          1.0908
+        ],
+        2,
+        [
+          0.1768,
+          0.029480000000007
+        ],
+        [
+          0.5602,
+          0.088439999999991
+        ],
+        [
+          0.4422,
+          0.029480000000007
+        ],
+        [
+          0.1474
+        ],
+        [
+          0.3537
+        ],
+        [
+          0.2948
+        ],
+        [
+          0.3243
+        ],
+        [
+          0.1769,
+          0.029480000000007
+        ],
+        [
+          0.4422
+        ],
+        [
+          0.0884
+        ],
+        [
+          0.0885
+        ],
+        [
+          0.4127,
+          0.088439999999991
+        ],
+        [
+          0.2063,
+          0.058960000000013
+        ],
+        [
+          0.1474,
+          0.058960000000013
+        ],
+        [
+          0.3833,
+          0.1474
+        ],
+        [
+          0.2653,
+          0.088439999999991
+        ],
+        [
+          0.2358,
+          0.088439999999991
+        ],
+        [
+          0.118,
+          0.088438999999994
+        ],
+        [
+          0.2653,
+          0.23584
+        ],
+        [
+          0.2063,
+          0.23584
+        ],
+        [
+          0.2064,
+          0.26532
+        ],
+        [
+          0.058999999999999,
+          0.20635999999999
+        ],
+        [
+          0.2358,
+          -359.321961
+        ],
+        [
+          0.058999999999999,
+          0.26532
+        ],
+        [
+          0.1179,
+          0.67804000000001
+        ],
+        [
+          0.1179,
+          0.501159,
+          "R",
+          450,
+          225
+        ],
+        [
+          0.029500000000001,
+          0.11792,
+          "J"
+        ],
+        [
+          0.029500000000001,
+          0.058960000000013,
+          "j"
+        ],
+        [
+          0,
+          -0.17688000000001
+        ],
+        [
+          -0.058999999999999,
+          357.965882
+        ],
+        1,
+        [
+          0.029500000000001,
+          -0.53064000000001
+        ],
+        [
+          0.029500000000001,
+          -1.120239,
+          "f"
+        ],
+        [
+          0.0589,
+          -0.58959999999999
+        ],
+        [
+          0.1179,
+          -1.532959
+        ],
+        [
+          0.0885,
+          -1.238159
+        ],
+        [
+          0.0589,
+          -0.58959999999999
+        ],
+        [
+          0.1474,
+          -1.415039
+        ],
+        [
+          0.2064,
+          -1.120239
+        ],
+        [
+          0.1474,
+          -1.208679
+        ],
+        [
+          0.058999999999999,
+          -0.50116
+        ],
+        [
+          0.0884,
+          -0.884399
+        ],
+        [
+          0.029500000000001,
+          -0.41272000000001
+        ],
+        [
+          0.0884,
+          -1.208679
+        ],
+        [
+          0,
+          -0.41272000000001
+        ],
+        [
+          0,
+          -0.41271900000001,
+          "D"
+        ],
+        [
+          0,
+          -0.61908
+        ],
+        [
+          0,
+          -1.945679
+        ],
+        [
+          -0.029500000000001,
+          -0.67803900000001
+        ],
+        [
+          -0.0589,
+          -1.650879
+        ],
+        [
+          -0.1179,
+          -1.857239
+        ],
+        [
+          -0.058999999999999,
+          -1.002319
+        ],
+        [
+          -0.1769,
+          -2.152039
+        ],
+        [
+          -0.2948,
+          -2.387878
+        ],
+        [
+          -0.3832,
+          -2.093079
+        ],
+        [
+          -0.3243,
+          -1.090759
+        ],
+        [
+          -1.1792,
+          -3.596558
+        ],
+        [
+          -0.796,
+          -2.269958
+        ],
+        1,
+        [
+          -0.8254,
+          -2.564759
+        ],
+        [
+          -1.1497,
+          -3.449157
+        ],
+        [
+          -1.3266,
+          -3.773438,
+          "F",
+          225
+        ],
+        1,
+        [
+          -0.8549,
+          -2.594238
+        ],
+        [
+          -0.4128,
+          -2.210999
+        ],
+        [
+          0,
+          0,
+          "d"
+        ],
+        [
+          -0.4716,
+          -3.360717
+        ],
+        [
+          -0.0885,
+          -1.739319
+        ],
+        [
+          -0.0589,
+          -0.82544
+        ],
+        [
+          -0.059,
+          -1.798279
+        ],
+        [
+          0,
+          -0.58959900000001,
+          "r"
+        ],
+        [
+          -0.1179,
+          -1.031799
+        ],
+        [
+          -0.1179,
+          -1.1792
+        ],
+        [
+          -0.0295,
+          -1.002319
+        ],
+        [
+          -0.059,
+          -0.47168000000001
+        ],
+        [
+          -0.1179,
+          -1.297119
+        ],
+        [
+          0,
+          -0.23584
+        ],
+        1,
+        [
+          0.059,
+          -0.707519
+        ],
+        [
+          0.1179,
+          -0.41271999999999
+        ],
+        [
+          0.0884,
+          -0.088440000000006
+        ],
+        [
+          0.0885,
+          -0.11792
+        ],
+        2,
+        [
+          0.0294,
+          0.1474,
+          "J"
+        ],
+        [
+          0.1474,
+          0.82544,
+          "jL",
+          450,
+          -225
+        ],
+        [
+          0.118,
+          0.47167899999999
+        ],
+        [
+          0.7075,
+          2.122559,
+          "f"
+        ],
+        [
+          0.2653,
+          0.854919
+        ],
+        [
+          0.5601,
+          1.916199,
+          "D"
+        ],
+        [
+          0.6191,
+          2.417358
+        ],
+        [
+          0.2358,
+          1.00232
+        ],
+        [
+          0.4422,
+          2.004638
+        ],
+        [
+          1.0613,
+          5.247437
+        ],
+        2,
+        [
+          0.1474,
+          1.090759
+        ],
+        [
+          0.6191,
+          3.950318
+        ],
+        [
+          0.3832,
+          2.800598
+        ],
+        [
+          0.1769,
+          1.503479
+        ],
+        [
+          0.5307,
+          3.920837
+        ],
+        [
+          0.4716,
+          3.419678,
+          "F"
+        ],
+        [
+          0.2064,
+          1.739319
+        ],
+        [
+          0.5896,
+          5.866516,
+          "l"
+        ],
+        [
+          0.2358,
+          1.709839
+        ],
+        [
+          0.3833,
+          4.038757
+        ],
+        [
+          0.2063,
+          2.034119
+        ],
+        [
+          0.2948,
+          3.950317
+        ],
+        [
+          0.5307,
+          4.746277
+        ],
+        [
+          0.3832,
+          4.716797
+        ]
+      ]
+    }
+  },
+  {
+    "name": ["bombsiteB", "truck"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1143.3671875, 189.88516235352, -171.77355957031],
+    "viewangles": [-14.623914718628, 143.50427246094],
+    "grenade": {
+      "run": 10
+    }
+  },
+  {
+    "name": ["bombsiteB", "truck"],
+    "weapon": "weapon_molotov",
+    "position": [-1154.5202636719, 187.68074035645, -171.05838012695],
+    "viewangles": [-15.283911705017, 142.98014831543],
+    "grenade": {
+      "run": 10
+    }
+  },
+  {
+    "name": ["Kitchen", "Site A and Short"],
+    "weapon": "weapon_molotov",
+    "position": [-1681.5004882813, -666.76202392578, -167.96875],
+    "viewangles": [-7.4581212997437, 122.98832702637],
+    "grenade": {
+      "run": 16
+    }
+  },
+  {
+    "name": ["Kitchen", "Site A and Short"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1681.5004882813, -666.76202392578, -167.96875],
+    "viewangles": [-7.4581212997437, 122.98832702637],
+    "grenade": {
+      "run": 16
+    }
+  },
+  {
+    "name": ["CT Start", "Plant"],
+    "weapon": "weapon_molotov",
+    "position": [-1611.0251464844, -2189.3505859375, -255.28926086426],
+    "viewangles": [2.4235279560089, -8.8551473617554],
+    "grenade": {
+      "run": 18,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Middle Bench", "Window"],
+    "description": "low",
+    "weapon": "weapon_deagle",
+    "position": [-851.97143554688, -775.55017089844, -241.96875],
+    "viewangles": [1.6069848537445, 177.66337585449],
+    "movement": {
+      "frames": [
+        [
+          0,
+          0,
+          "F",
+          225
+        ],
+        1,
+        [
+          1.0908
+        ],
+        2,
+        [
+          0.1768,
+          0.029480000000007
+        ],
+        [
+          0.5602,
+          0.088439999999991
+        ],
+        [
+          0.4422,
+          0.029480000000007
+        ],
+        [
+          0.1474
+        ],
+        [
+          0.3537
+        ],
+        [
+          0.2948
+        ],
+        [
+          0.3243
+        ],
+        [
+          0.1769,
+          0.029480000000007
+        ],
+        [
+          0.4422
+        ],
+        [
+          0.0884
+        ],
+        [
+          0.0885
+        ],
+        [
+          0.4127,
+          0.088439999999991
+        ],
+        [
+          0.2063,
+          0.058960000000013
+        ],
+        [
+          0.1474,
+          0.058960000000013
+        ],
+        [
+          0.3833,
+          0.1474
+        ],
+        [
+          0.2653,
+          0.088439999999991
+        ],
+        [
+          0.2358,
+          0.088439999999991
+        ],
+        [
+          0.118,
+          0.088438999999994
+        ],
+        [
+          0.2653,
+          0.23584
+        ],
+        [
+          0.2063,
+          0.23584
+        ],
+        [
+          0.2064,
+          0.26532
+        ],
+        [
+          0.058999999999999,
+          0.20635999999999
+        ],
+        [
+          0.2358,
+          -359.321961
+        ],
+        [
+          0.058999999999999,
+          0.26532
+        ],
+        [
+          0.1179,
+          0.67804000000001
+        ],
+        [
+          0.1179,
+          0.501159,
+          "R",
+          450,
+          225
+        ],
+        [
+          0.029500000000001,
+          0.11792,
+          "J"
+        ],
+        [
+          0.029500000000001,
+          0.058960000000013,
+          "j"
+        ],
+        [
+          0,
+          -0.17688000000001
+        ],
+        [
+          -0.058999999999999,
+          357.965882
+        ],
+        1,
+        [
+          0.029500000000001,
+          -0.53064000000001
+        ],
+        [
+          0.029500000000001,
+          -1.120239,
+          "f"
+        ],
+        [
+          0.0589,
+          -0.58959999999999
+        ],
+        [
+          0.1179,
+          -1.532959
+        ],
+        [
+          0.0885,
+          -1.238159
+        ],
+        [
+          0.0589,
+          -0.58959999999999
+        ],
+        [
+          0.1474,
+          -1.415039
+        ],
+        [
+          0.2064,
+          -1.120239
+        ],
+        [
+          0.1474,
+          -1.208679
+        ],
+        [
+          0.058999999999999,
+          -0.50116
+        ],
+        [
+          0.0884,
+          -0.884399
+        ],
+        [
+          0.029500000000001,
+          -0.41272000000001
+        ],
+        [
+          0.0884,
+          -1.208679
+        ],
+        [
+          0,
+          -0.41272000000001
+        ],
+        [
+          0,
+          -0.41271900000001,
+          "D"
+        ],
+        [
+          0,
+          -0.61908
+        ],
+        [
+          0,
+          -1.945679
+        ],
+        [
+          -0.029500000000001,
+          -0.67803900000001
+        ],
+        [
+          -0.0589,
+          -1.650879
+        ],
+        [
+          -0.1179,
+          -1.857239
+        ],
+        [
+          -0.058999999999999,
+          -1.002319
+        ],
+        [
+          -0.1769,
+          -2.152039
+        ],
+        [
+          -0.2948,
+          -2.387878
+        ],
+        [
+          -0.3832,
+          -2.093079
+        ],
+        [
+          -0.3243,
+          -1.090759
+        ],
+        [
+          -1.1792,
+          -3.596558
+        ],
+        [
+          -0.796,
+          -2.269958
+        ],
+        1,
+        [
+          -0.8254,
+          -2.564759
+        ],
+        [
+          -1.1497,
+          -3.449157
+        ],
+        [
+          -1.3266,
+          -3.773438,
+          "F",
+          225
+        ],
+        1,
+        [
+          -0.8549,
+          -2.594238
+        ],
+        [
+          -0.4128,
+          -2.210999
+        ],
+        [
+          0,
+          0,
+          "d"
+        ],
+        [
+          -0.4716,
+          -3.360717
+        ],
+        [
+          -0.0885,
+          -1.739319
+        ],
+        [
+          -0.0589,
+          -0.82544
+        ],
+        [
+          -0.059,
+          -1.798279
+        ],
+        [
+          0,
+          -0.58959900000001,
+          "r"
+        ],
+        [
+          -0.1179,
+          -1.031799
+        ],
+        [
+          -0.1179,
+          -1.1792
+        ],
+        [
+          -0.0295,
+          -1.002319
+        ],
+        [
+          -0.059,
+          -0.47168000000001
+        ],
+        [
+          -0.1179,
+          -1.297119
+        ],
+        [
+          0,
+          -0.23584
+        ],
+        1,
+        [
+          0.059,
+          -0.707519
+        ],
+        [
+          0.1179,
+          -0.41271999999999
+        ],
+        [
+          0.0884,
+          -0.088440000000006
+        ],
+        [
+          0.0885,
+          -0.11792
+        ],
+        2,
+        [
+          0.0294,
+          0.1474,
+          "J"
+        ],
+        [
+          0.1474,
+          0.82544,
+          "jL",
+          450,
+          -225
+        ],
+        [
+          0.118,
+          0.47167899999999
+        ],
+        [
+          0.7075,
+          2.122559,
+          "f"
+        ],
+        [
+          0.2653,
+          0.854919
+        ],
+        [
+          0.5601,
+          1.916199,
+          "D"
+        ],
+        [
+          0.6191,
+          2.417358
+        ],
+        [
+          0.2358,
+          1.00232
+        ],
+        [
+          0.4422,
+          2.004638
+        ],
+        [
+          1.0613,
+          5.247437
+        ],
+        2,
+        [
+          0.1474,
+          1.090759
+        ],
+        [
+          0.6191,
+          3.950318
+        ],
+        [
+          0.3832,
+          2.800598
+        ],
+        [
+          0.1769,
+          1.503479
+        ],
+        [
+          0.5307,
+          3.920837
+        ],
+        [
+          0.4716,
+          3.419678,
+          "F"
+        ],
+        [
+          0.2064,
+          1.739319
+        ],
+        [
+          0.5896,
+          5.866516,
+          "l"
+        ],
+        [
+          0.2358,
+          1.709839
+        ],
+        [
+          0.3833,
+          4.038757
+        ],
+        [
+          0.2063,
+          2.034119
+        ],
+        [
+          0.2948,
+          3.950317
+        ],
+        [
+          0.5307,
+          4.746277
+        ],
+        [
+          0.3832,
+          4.716797
+        ]
+      ]
+    }
+  },
+  {
+    "name": ["Middle Bench", "Window"],
+    "description": "low",
+    "weapon": "weapon_ssg08",
+    "position": [-851.97143554688, -775.55017089844, -241.96875],
+    "viewangles": [1.6069848537445, 177.66337585449],
+    "movement": {
+      "frames": [
+        [
+          0,
+          0,
+          "F",
+          225
+        ],
+        1,
+        [
+          1.0908
+        ],
+        2,
+        [
+          0.1768,
+          0.029480000000007
+        ],
+        [
+          0.5602,
+          0.088439999999991
+        ],
+        [
+          0.4422,
+          0.029480000000007
+        ],
+        [
+          0.1474
+        ],
+        [
+          0.3537
+        ],
+        [
+          0.2948
+        ],
+        [
+          0.3243
+        ],
+        [
+          0.1769,
+          0.029480000000007
+        ],
+        [
+          0.4422
+        ],
+        [
+          0.0884
+        ],
+        [
+          0.0885
+        ],
+        [
+          0.4127,
+          0.088439999999991
+        ],
+        [
+          0.2063,
+          0.058960000000013
+        ],
+        [
+          0.1474,
+          0.058960000000013
+        ],
+        [
+          0.3833,
+          0.1474
+        ],
+        [
+          0.2653,
+          0.088439999999991
+        ],
+        [
+          0.2358,
+          0.088439999999991
+        ],
+        [
+          0.118,
+          0.088438999999994
+        ],
+        [
+          0.2653,
+          0.23584
+        ],
+        [
+          0.2063,
+          0.23584
+        ],
+        [
+          0.2064,
+          0.26532
+        ],
+        [
+          0.058999999999999,
+          0.20635999999999
+        ],
+        [
+          0.2358,
+          -359.321961
+        ],
+        [
+          0.058999999999999,
+          0.26532
+        ],
+        [
+          0.1179,
+          0.67804000000001
+        ],
+        [
+          0.1179,
+          0.501159,
+          "R",
+          450,
+          225
+        ],
+        [
+          0.029500000000001,
+          0.11792,
+          "J"
+        ],
+        [
+          0.029500000000001,
+          0.058960000000013,
+          "j"
+        ],
+        [
+          0,
+          -0.17688000000001
+        ],
+        [
+          -0.058999999999999,
+          357.965882
+        ],
+        1,
+        [
+          0.029500000000001,
+          -0.53064000000001
+        ],
+        [
+          0.029500000000001,
+          -1.120239,
+          "f"
+        ],
+        [
+          0.0589,
+          -0.58959999999999
+        ],
+        [
+          0.1179,
+          -1.532959
+        ],
+        [
+          0.0885,
+          -1.238159
+        ],
+        [
+          0.0589,
+          -0.58959999999999
+        ],
+        [
+          0.1474,
+          -1.415039
+        ],
+        [
+          0.2064,
+          -1.120239
+        ],
+        [
+          0.1474,
+          -1.208679
+        ],
+        [
+          0.058999999999999,
+          -0.50116
+        ],
+        [
+          0.0884,
+          -0.884399
+        ],
+        [
+          0.029500000000001,
+          -0.41272000000001
+        ],
+        [
+          0.0884,
+          -1.208679
+        ],
+        [
+          0,
+          -0.41272000000001
+        ],
+        [
+          0,
+          -0.41271900000001,
+          "D"
+        ],
+        [
+          0,
+          -0.61908
+        ],
+        [
+          0,
+          -1.945679
+        ],
+        [
+          -0.029500000000001,
+          -0.67803900000001
+        ],
+        [
+          -0.0589,
+          -1.650879
+        ],
+        [
+          -0.1179,
+          -1.857239
+        ],
+        [
+          -0.058999999999999,
+          -1.002319
+        ],
+        [
+          -0.1769,
+          -2.152039
+        ],
+        [
+          -0.2948,
+          -2.387878
+        ],
+        [
+          -0.3832,
+          -2.093079
+        ],
+        [
+          -0.3243,
+          -1.090759
+        ],
+        [
+          -1.1792,
+          -3.596558
+        ],
+        [
+          -0.796,
+          -2.269958
+        ],
+        1,
+        [
+          -0.8254,
+          -2.564759
+        ],
+        [
+          -1.1497,
+          -3.449157
+        ],
+        [
+          -1.3266,
+          -3.773438,
+          "F",
+          225
+        ],
+        1,
+        [
+          -0.8549,
+          -2.594238
+        ],
+        [
+          -0.4128,
+          -2.210999
+        ],
+        [
+          0,
+          0,
+          "d"
+        ],
+        [
+          -0.4716,
+          -3.360717
+        ],
+        [
+          -0.0885,
+          -1.739319
+        ],
+        [
+          -0.0589,
+          -0.82544
+        ],
+        [
+          -0.059,
+          -1.798279
+        ],
+        [
+          0,
+          -0.58959900000001,
+          "r"
+        ],
+        [
+          -0.1179,
+          -1.031799
+        ],
+        [
+          -0.1179,
+          -1.1792
+        ],
+        [
+          -0.0295,
+          -1.002319
+        ],
+        [
+          -0.059,
+          -0.47168000000001
+        ],
+        [
+          -0.1179,
+          -1.297119
+        ],
+        [
+          0,
+          -0.23584
+        ],
+        1,
+        [
+          0.059,
+          -0.707519
+        ],
+        [
+          0.1179,
+          -0.41271999999999
+        ],
+        [
+          0.0884,
+          -0.088440000000006
+        ],
+        [
+          0.0885,
+          -0.11792
+        ],
+        2,
+        [
+          0.0294,
+          0.1474,
+          "J"
+        ],
+        [
+          0.1474,
+          0.82544,
+          "jL",
+          450,
+          -225
+        ],
+        [
+          0.118,
+          0.47167899999999
+        ],
+        [
+          0.7075,
+          2.122559,
+          "f"
+        ],
+        [
+          0.2653,
+          0.854919
+        ],
+        [
+          0.5601,
+          1.916199,
+          "D"
+        ],
+        [
+          0.6191,
+          2.417358
+        ],
+        [
+          0.2358,
+          1.00232
+        ],
+        [
+          0.4422,
+          2.004638
+        ],
+        [
+          1.0613,
+          5.247437
+        ],
+        2,
+        [
+          0.1474,
+          1.090759
+        ],
+        [
+          0.6191,
+          3.950318
+        ],
+        [
+          0.3832,
+          2.800598
+        ],
+        [
+          0.1769,
+          1.503479
+        ],
+        [
+          0.5307,
+          3.920837
+        ],
+        [
+          0.4716,
+          3.419678,
+          "F"
+        ],
+        [
+          0.2064,
+          1.739319
+        ],
+        [
+          0.5896,
+          5.866516,
+          "l"
+        ],
+        [
+          0.2358,
+          1.709839
+        ],
+        [
+          0.3833,
+          4.038757
+        ],
+        [
+          0.2063,
+          2.034119
+        ],
+        [
+          0.2948,
+          3.950317
+        ],
+        [
+          0.5307,
+          4.746277
+        ],
+        [
+          0.3832,
+          4.716797
+        ]
+      ]
+    }
+  },
+  {
+    "name": ["Middle Bench", "Window"],
+    "description": "low",
+    "weapon": "weapon_glock",
+    "position": [-842, -779.99822998047, -241.96875],
+    "viewangles": [1.6069848537445, 177.66337585449],
+    "movement": {
+      "frames": [
+        [
+          0,
+          0,
+          "F",
+          225
+        ],
+        1,
+        [
+          1.0908
+        ],
+        2,
+        [
+          0.1768,
+          0.029480000000007
+        ],
+        [
+          0.5602,
+          0.088439999999991
+        ],
+        [
+          0.4422,
+          0.029480000000007
+        ],
+        [
+          0.1474
+        ],
+        [
+          0.3537
+        ],
+        [
+          0.2948
+        ],
+        [
+          0.3243
+        ],
+        [
+          0.1769,
+          0.029480000000007
+        ],
+        [
+          0.4422
+        ],
+        [
+          0.0884
+        ],
+        [
+          0.0885
+        ],
+        [
+          0.4127,
+          0.088439999999991
+        ],
+        [
+          0.2063,
+          0.058960000000013
+        ],
+        [
+          0.1474,
+          0.058960000000013
+        ],
+        [
+          0.3833,
+          0.1474
+        ],
+        [
+          0.2653,
+          0.088439999999991
+        ],
+        [
+          0.2358,
+          0.088439999999991
+        ],
+        [
+          0.118,
+          0.088438999999994
+        ],
+        [
+          0.2653,
+          0.23584
+        ],
+        [
+          0.2063,
+          0.23584
+        ],
+        [
+          0.2064,
+          0.26532
+        ],
+        [
+          0.058999999999999,
+          0.20635999999999
+        ],
+        [
+          0.2358,
+          -359.321961
+        ],
+        [
+          0.058999999999999,
+          0.26532
+        ],
+        [
+          0.1179,
+          0.67804000000001
+        ],
+        [
+          0.1179,
+          0.501159,
+          "R",
+          450,
+          225
+        ],
+        [
+          0.029500000000001,
+          0.11792,
+          "J"
+        ],
+        [
+          0.029500000000001,
+          0.058960000000013,
+          "j"
+        ],
+        [
+          0,
+          -0.17688000000001
+        ],
+        [
+          -0.058999999999999,
+          357.965882
+        ],
+        1,
+        [
+          0.029500000000001,
+          -0.53064000000001
+        ],
+        [
+          0.029500000000001,
+          -1.120239,
+          "f"
+        ],
+        [
+          0.0589,
+          -0.58959999999999
+        ],
+        [
+          0.1179,
+          -1.532959
+        ],
+        [
+          0.0885,
+          -1.238159
+        ],
+        [
+          0.0589,
+          -0.58959999999999
+        ],
+        [
+          0.1474,
+          -1.415039
+        ],
+        [
+          0.2064,
+          -1.120239
+        ],
+        [
+          0.1474,
+          -1.208679
+        ],
+        [
+          0.058999999999999,
+          -0.50116
+        ],
+        [
+          0.0884,
+          -0.884399
+        ],
+        [
+          0.029500000000001,
+          -0.41272000000001
+        ],
+        [
+          0.0884,
+          -1.208679
+        ],
+        [
+          0,
+          -0.41272000000001
+        ],
+        [
+          0,
+          -0.41271900000001,
+          "D"
+        ],
+        [
+          0,
+          -0.61908
+        ],
+        [
+          0,
+          -1.945679
+        ],
+        [
+          -0.029500000000001,
+          -0.67803900000001
+        ],
+        [
+          -0.0589,
+          -1.650879
+        ],
+        [
+          -0.1179,
+          -1.857239
+        ],
+        [
+          -0.058999999999999,
+          -1.002319
+        ],
+        [
+          -0.1769,
+          -2.152039
+        ],
+        [
+          -0.2948,
+          -2.387878
+        ],
+        [
+          -0.3832,
+          -2.093079
+        ],
+        [
+          -0.3243,
+          -1.090759
+        ],
+        [
+          -1.1792,
+          -3.596558
+        ],
+        [
+          -0.796,
+          -2.269958
+        ],
+        1,
+        [
+          -0.8254,
+          -2.564759
+        ],
+        [
+          -1.1497,
+          -3.449157
+        ],
+        [
+          -1.3266,
+          -3.773438,
+          "F",
+          225
+        ],
+        1,
+        [
+          -0.8549,
+          -2.594238
+        ],
+        [
+          -0.4128,
+          -2.210999
+        ],
+        [
+          0,
+          0,
+          "d"
+        ],
+        [
+          -0.4716,
+          -3.360717
+        ],
+        [
+          -0.0885,
+          -1.739319
+        ],
+        [
+          -0.0589,
+          -0.82544
+        ],
+        [
+          -0.059,
+          -1.798279
+        ],
+        [
+          0,
+          -0.58959900000001,
+          "r"
+        ],
+        [
+          -0.1179,
+          -1.031799
+        ],
+        [
+          -0.1179,
+          -1.1792
+        ],
+        [
+          -0.0295,
+          -1.002319
+        ],
+        [
+          -0.059,
+          -0.47168000000001
+        ],
+        [
+          -0.1179,
+          -1.297119
+        ],
+        [
+          0,
+          -0.23584
+        ],
+        1,
+        [
+          0.059,
+          -0.707519
+        ],
+        [
+          0.1179,
+          -0.41271999999999
+        ],
+        [
+          0.0884,
+          -0.088440000000006
+        ],
+        [
+          0.0885,
+          -0.11792
+        ],
+        2,
+        [
+          0.0294,
+          0.1474,
+          "J"
+        ],
+        [
+          0.1474,
+          0.82544,
+          "jL",
+          450,
+          -225
+        ],
+        [
+          0.118,
+          0.47167899999999
+        ],
+        [
+          0.7075,
+          2.122559,
+          "f"
+        ],
+        [
+          0.2653,
+          0.854919
+        ],
+        [
+          0.5601,
+          1.916199,
+          "D"
+        ],
+        [
+          0.6191,
+          2.417358
+        ],
+        [
+          0.2358,
+          1.00232
+        ],
+        [
+          0.4422,
+          2.004638
+        ],
+        [
+          1.0613,
+          5.247437
+        ],
+        2,
+        [
+          0.1474,
+          1.090759
+        ],
+        [
+          0.6191,
+          3.950318
+        ],
+        [
+          0.3832,
+          2.800598
+        ],
+        [
+          0.1769,
+          1.503479
+        ],
+        [
+          0.5307,
+          3.920837
+        ],
+        [
+          0.4716,
+          3.419678,
+          "F"
+        ],
+        [
+          0.2064,
+          1.739319
+        ],
+        [
+          0.5896,
+          5.866516,
+          "l"
+        ],
+        [
+          0.2358,
+          1.709839
+        ],
+        [
+          0.3833,
+          4.038757
+        ],
+        [
+          0.2063,
+          2.034119
+        ],
+        [
+          0.2948,
+          3.950317
+        ],
+        [
+          0.5307,
+          4.746277
+        ],
+        [
+          0.3832,
+          4.716797
+        ]
+      ]
+    }
+  },
+  {
+    "name": ["Middle Bench", "Window"],
+    "description": "low",
+    "weapon": "weapon_usp_silencer",
+    "position": [-842, -779.99822998047, -241.96875],
+    "viewangles": [1.6069848537445, 177.66337585449],
+    "movement": {
+      "frames": [
+        [
+          0,
+          0,
+          "F",
+          225
+        ],
+        1,
+        [
+          1.0908
+        ],
+        2,
+        [
+          0.1768,
+          0.029480000000007
+        ],
+        [
+          0.5602,
+          0.088439999999991
+        ],
+        [
+          0.4422,
+          0.029480000000007
+        ],
+        [
+          0.1474
+        ],
+        [
+          0.3537
+        ],
+        [
+          0.2948
+        ],
+        [
+          0.3243
+        ],
+        [
+          0.1769,
+          0.029480000000007
+        ],
+        [
+          0.4422
+        ],
+        [
+          0.0884
+        ],
+        [
+          0.0885
+        ],
+        [
+          0.4127,
+          0.088439999999991
+        ],
+        [
+          0.2063,
+          0.058960000000013
+        ],
+        [
+          0.1474,
+          0.058960000000013
+        ],
+        [
+          0.3833,
+          0.1474
+        ],
+        [
+          0.2653,
+          0.088439999999991
+        ],
+        [
+          0.2358,
+          0.088439999999991
+        ],
+        [
+          0.118,
+          0.088438999999994
+        ],
+        [
+          0.2653,
+          0.23584
+        ],
+        [
+          0.2063,
+          0.23584
+        ],
+        [
+          0.2064,
+          0.26532
+        ],
+        [
+          0.058999999999999,
+          0.20635999999999
+        ],
+        [
+          0.2358,
+          -359.321961
+        ],
+        [
+          0.058999999999999,
+          0.26532
+        ],
+        [
+          0.1179,
+          0.67804000000001
+        ],
+        [
+          0.1179,
+          0.501159,
+          "R",
+          450,
+          225
+        ],
+        [
+          0.029500000000001,
+          0.11792,
+          "J"
+        ],
+        [
+          0.029500000000001,
+          0.058960000000013,
+          "j"
+        ],
+        [
+          0,
+          -0.17688000000001
+        ],
+        [
+          -0.058999999999999,
+          357.965882
+        ],
+        1,
+        [
+          0.029500000000001,
+          -0.53064000000001
+        ],
+        [
+          0.029500000000001,
+          -1.120239,
+          "f"
+        ],
+        [
+          0.0589,
+          -0.58959999999999
+        ],
+        [
+          0.1179,
+          -1.532959
+        ],
+        [
+          0.0885,
+          -1.238159
+        ],
+        [
+          0.0589,
+          -0.58959999999999
+        ],
+        [
+          0.1474,
+          -1.415039
+        ],
+        [
+          0.2064,
+          -1.120239
+        ],
+        [
+          0.1474,
+          -1.208679
+        ],
+        [
+          0.058999999999999,
+          -0.50116
+        ],
+        [
+          0.0884,
+          -0.884399
+        ],
+        [
+          0.029500000000001,
+          -0.41272000000001
+        ],
+        [
+          0.0884,
+          -1.208679
+        ],
+        [
+          0,
+          -0.41272000000001
+        ],
+        [
+          0,
+          -0.41271900000001,
+          "D"
+        ],
+        [
+          0,
+          -0.61908
+        ],
+        [
+          0,
+          -1.945679
+        ],
+        [
+          -0.029500000000001,
+          -0.67803900000001
+        ],
+        [
+          -0.0589,
+          -1.650879
+        ],
+        [
+          -0.1179,
+          -1.857239
+        ],
+        [
+          -0.058999999999999,
+          -1.002319
+        ],
+        [
+          -0.1769,
+          -2.152039
+        ],
+        [
+          -0.2948,
+          -2.387878
+        ],
+        [
+          -0.3832,
+          -2.093079
+        ],
+        [
+          -0.3243,
+          -1.090759
+        ],
+        [
+          -1.1792,
+          -3.596558
+        ],
+        [
+          -0.796,
+          -2.269958
+        ],
+        1,
+        [
+          -0.8254,
+          -2.564759
+        ],
+        [
+          -1.1497,
+          -3.449157
+        ],
+        [
+          -1.3266,
+          -3.773438,
+          "F",
+          225
+        ],
+        1,
+        [
+          -0.8549,
+          -2.594238
+        ],
+        [
+          -0.4128,
+          -2.210999
+        ],
+        [
+          0,
+          0,
+          "d"
+        ],
+        [
+          -0.4716,
+          -3.360717
+        ],
+        [
+          -0.0885,
+          -1.739319
+        ],
+        [
+          -0.0589,
+          -0.82544
+        ],
+        [
+          -0.059,
+          -1.798279
+        ],
+        [
+          0,
+          -0.58959900000001,
+          "r"
+        ],
+        [
+          -0.1179,
+          -1.031799
+        ],
+        [
+          -0.1179,
+          -1.1792
+        ],
+        [
+          -0.0295,
+          -1.002319
+        ],
+        [
+          -0.059,
+          -0.47168000000001
+        ],
+        [
+          -0.1179,
+          -1.297119
+        ],
+        [
+          0,
+          -0.23584
+        ],
+        1,
+        [
+          0.059,
+          -0.707519
+        ],
+        [
+          0.1179,
+          -0.41271999999999
+        ],
+        [
+          0.0884,
+          -0.088440000000006
+        ],
+        [
+          0.0885,
+          -0.11792
+        ],
+        2,
+        [
+          0.0294,
+          0.1474,
+          "J"
+        ],
+        [
+          0.1474,
+          0.82544,
+          "jL",
+          450,
+          -225
+        ],
+        [
+          0.118,
+          0.47167899999999
+        ],
+        [
+          0.7075,
+          2.122559,
+          "f"
+        ],
+        [
+          0.2653,
+          0.854919
+        ],
+        [
+          0.5601,
+          1.916199,
+          "D"
+        ],
+        [
+          0.6191,
+          2.417358
+        ],
+        [
+          0.2358,
+          1.00232
+        ],
+        [
+          0.4422,
+          2.004638
+        ],
+        [
+          1.0613,
+          5.247437
+        ],
+        2,
+        [
+          0.1474,
+          1.090759
+        ],
+        [
+          0.6191,
+          3.950318
+        ],
+        [
+          0.3832,
+          2.800598
+        ],
+        [
+          0.1769,
+          1.503479
+        ],
+        [
+          0.5307,
+          3.920837
+        ],
+        [
+          0.4716,
+          3.419678,
+          "F"
+        ],
+        [
+          0.2064,
+          1.739319
+        ],
+        [
+          0.5896,
+          5.866516,
+          "l"
+        ],
+        [
+          0.2358,
+          1.709839
+        ],
+        [
+          0.3833,
+          4.038757
+        ],
+        [
+          0.2063,
+          2.034119
+        ],
+        [
+          0.2948,
+          3.950317
+        ],
+        [
+          0.5307,
+          4.746277
+        ],
+        [
+          0.3832,
+          4.716797
+        ]
+      ]
     }
   }
 ]
