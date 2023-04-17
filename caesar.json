@@ -1,6 +1,6 @@
 {
 	"name": "caesar",
 	"description": "Grenades from caesar",
-	"update_timestamp": 1611814124,
-	"url_format": "https://你的网址/map/%map%.json"
+	"update_timestamp": 1681749969,
+	"url_format": "https://raw.githubusercontent.com/Fvr9W/csgo/main/map/%map%.json"
 }
